@@ -31,7 +31,8 @@ latest_posts:
 
 Currently, I am a **Research Fellow** at the [Bangladesh Institute of Social Research (BISR) Trust](https://bisrbd.org/index.html). Prior to this role, I served as a **Research Associate** at the same institution, following my early research experience as a **Research Assistant** at [Change Initiative](https://www.changei.earth/).
 
-I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Economics** from [Comilla University](https://www.cou.ac.bd/), where I also worked as a **Graduate Research Assistant** under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies. 
+I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Economics** from [Comilla University](https://www.cou.ac.bd/), where I also worked as a **Graduate Research Assistant** under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies.
+
 
 ## Research Interests
 
@@ -49,28 +50,31 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 ## Ongoing Research
 
 #### Consultancy
+
 1. Gender Analysis of the Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (plastic circularity ecosystem and circular economy)
 
-   Funded by: UNDP Bangladesh; *Role: Study Coordinator*.
-   
+   Funded by: UNDP Bangladesh; _Role: Study Coordinator_.
+
 #### Research Article
 1. Does sustainable industrialization reduce climate vulnerability?
-   *With Brice Kamguia & Xuan Hoa Nghiem*
+   _With Brice Kamguia & Xuan Hoa Nghiem_
 3. Macroeconomic Policy Uncertainty, Behavioral Mediators, and the Climate-Poverty Nexus.
-   *Munem Ahmad Chowdhury*
+   _Munem Ahmad Chowdhury_
 
 ## Research and Consultancy Awards
 
 Over the course of my career, I have successfully developed and secured multiple research and consultancy projects through competitive proposal writing, both as a team member and as a team leader.
 
-* $120,000 consultancy for an e-Parliament Feasibility Study; *UNDP Bangladesh* 
-* $19,850 consultancy for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, *UNDP Bangladesh* 
-* $20,000 research grant for a study on public traffic awareness; *Bangladesh Police*
-* $15,000 consultancy for  a comprehensive study on climate risk insurance; *OXFAM Bangladesh*
+- $120,000 consultancy for an e-Parliament Feasibility Study; _UNDP Bangladesh_
+- $19,850 consultancy for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, _UNDP Bangladesh_
+- $20,000 research grant for a study on public traffic awareness; _Bangladesh Police_
+- $15,000 consultancy for a comprehensive study on climate risk insurance; _OXFAM Bangladesh_
+
 
 ## Other Engagements
 
 #### Annual Conference on Social Research
+
 For three consecutive years (2023, 2024, and 2025), I have been part of the organizing team of the Annual Conference on Social Research hosted by BISR Trust, the largest academic networking platform for social science researchers in Bangladesh. This year marks its tenth edition. In the past two years, my responsibilities included **reviewing papers** and **moderating sessions**. However, in 2026 I served as the **Organizing Manager**, overseeing the entire process—from handling communications with Authors to designing the full program.
 
 In the news (2023 & 2024): [1](https://www.observerbd.com/news/497762), [2](https://www.thedailystar.net/news/bangladesh/education/news/eliminating-discrimination-research-sector-need-the-hour-3744146), [3](https://thereport.live/bangladesh/eliminating-discrimination-in-research-sector-is-necessity/32597), [4](https://dailycountrytodaybd.com/story/eliminating-discrimination-in-research-dector-stressed#:~:text=Renowned%20scientist%20Dr.,seasons%20from%20a%20single%20planting)  
