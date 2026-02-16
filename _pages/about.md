@@ -34,6 +34,7 @@ Currently, I am a **Research Fellow** at the [Bangladesh Institute of Social Res
 I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Economics** from [Comilla University](https://www.cou.ac.bd/), where I also worked as a **Graduate Research Assistant** under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies.
 
 
+
 ## Research Interests
 
 - Behavioral Economics
@@ -41,11 +42,13 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 - Economics of Climate Change
 - Energy Economics
 
+
 ## Exploring, Engaging, Evolving
 
 <div class="slides-container">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQP7h4_pbbRfH4f-R4zFlJLbXaNiv1GH7UD59iIdIkJVVBla9JdXgpoXdz4kA8oLuMpROInNv-PXJ19/pubembed?start=true&loop=true&delayms=2000"   frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+
 
 ## Ongoing Research
 
@@ -60,6 +63,7 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
    _With Brice Kamguia & Xuan Hoa Nghiem_
 3. Macroeconomic Policy Uncertainty, Behavioral Mediators, and the Climate-Poverty Nexus.
    _Munem Ahmad Chowdhury_
+
 
 ## Research and Consultancy Awards
 
