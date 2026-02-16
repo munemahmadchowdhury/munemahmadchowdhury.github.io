@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate in the Making | Looking for Research Opportunity
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Hasina de Palace (flat:6B), 6/14</p>
+    <p>Block: A, Lalmatia</p>
+    <p>Mohammadpur, Dhaka-1207, Bangladesh</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Bio
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Currently, I am a **Research Fellow** at the [Bangladesh Institute of Social Research (BISR) Trust](https://bisrbd.org/index.html). Prior to this role, I served as a **Research Associate** at the same institution, following my early research experience as a **Research Assistant** at [Change Initiative](https://www.changei.earth/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Economics** from [Comilla University](https://www.cou.ac.bd/), where I also worked as a **Graduate Research Assistant** under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies. 
+
+
+## Research Interests
+
+- Behavioral Economics
+- Development Economics
+- Economics of Climate Change
+- Energy Economics
