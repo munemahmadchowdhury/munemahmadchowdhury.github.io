@@ -31,8 +31,8 @@ cv:
         start_date: 2020
         end_date: 2020
         score: "3.54 out of 4.00"
-        #courses: "Theory of Relativity"
-        #highlights:
+        courses: "Theory of Relativity"
+        highlights:
           - Description 1.
           - Description 2.
 
@@ -44,7 +44,7 @@ cv:
         start_date: 2016
         end_date: 2019
         score: "3.54 out of 4.00"
-        #highlights:
+        highlights:
           - Description 1.
           - Description 2.
 
