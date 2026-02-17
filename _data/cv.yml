@@ -201,8 +201,8 @@ cv:
         icon: fa-solid fa-envelope
 
     Fellowship:
-      - Role: Data Science Practitioner Fellow
-        name: Analytics for a Better World Fellowship 
+      - name: Analytics for a Better World Fellowship 
+        summary: Data Science Practitioner Fellow
         highlights:
           - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.  
           - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”. 
@@ -212,8 +212,8 @@ cv:
     References:
       - name: Professor Dr. Selim Jahan
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Contact information will be given upon request.
 
       - name: Professor Dr. Kazi Mohammed Kamal Uddin
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Contact information will be given upon request.
