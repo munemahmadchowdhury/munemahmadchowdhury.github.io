@@ -23,14 +23,14 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
+      - institution: Comilla University
+        location: Cumilla, Bangladesh
+        url: https://www.cou.ac.bd/
+        area: Economics
+        studyType: Masters
+        start_date: 2020
+        end_date: 2020
+        score: "3.54 out of 4.00"
         courses: "Theory of Relativity"
         highlights:
           - Description 1.
