@@ -88,3 +88,15 @@ In the news (2023 & 2024): [1](https://www.observerbd.com/news/497762), [2](http
 <div class="slides-container">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ06x9AmgtTAkHdrJUKjhDQSeHhAcLttK_pFhyRktL-gNXa8QxHZrN-vX_bQv0AHbgZ2cgetvgvQBn8/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+
+
+## What I am doing now!
+Here’s what I’m currently focusing on:
+  🎓 PhD application preparation
+  📚 Research on Gender analysis (In 03 Cities Chattogram, Cox’s Bazar & Tangail) of waste value chain
+  ✍️ Writing an article on the nexus between Sustainable Industrialization and Climate Change Vulnerability
+  📈 Learning Panel Econometrics and Spatial Econometrics
+  📖 Reading 
+      - Behavioral Economics: The Basics by Philip Corr and Anke Plagnol
+
+  
