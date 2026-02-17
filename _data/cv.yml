@@ -51,18 +51,18 @@ cv:
     Experience:
       - company: Bangladesh Institute of Social Research Trust
         position: Research Fellow
-        location: Lalmatia, Dhaka, Bangladesh
+        location: Dhaka, Bangladesh
         start_date: 2025
         end_date: "present"
         summary: Led the development of high-quality research outputs, including proposals, reports, publications, and policy briefs, ensuring strong academic rigor and policy relevance. Provided strategic oversight of research projects while representing the institution at national and international forums and strengthening partnerships with key stakeholders. Mentored research staff, delivered capacity-building initiatives, and offered intellectual leadership in shaping new research agendas. Also secured research and consultancy opportunities and performed additional responsibilities as assigned by institutional leadership.
         highlights:
           - Led completion of two research projects (climate-induced migration for BRAC and gender analysis of plastic waste value chain for UNDP), overseeing survey tool design, field supervision, data analysis, and report writing. 
           - Mentored a team of 3 interns and junior researchers in developing research proposals and implementing studies. 
-          - Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development. 
+          - Secured competitive consultancies from UNDP Bangladesh, including USD 120,000 for an e-Parliament Feasibility Study and USD 19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development. 
 
       - company: Bangladesh Institute of Social Research Trust
         position: Research Associate
-        location: Lalmatia, Dhaka, Bangladesh
+        location: Dhaka, Bangladesh
         start_date: 2023
         end_date: 2024
         summary: Prepared research proposals, reports, articles, and presentations for seminars and workshops, ensuring quality and relevance. Actively participated in national and international events while monitoring ongoing research to ensure timely, budget-compliant, and high-quality completion. Coordinated with national and international research organizations and identified new research and consultancy opportunities. Also produced op-eds for national newspapers and carried out additional tasks as assigned.
@@ -75,7 +75,7 @@ cv:
 
       - company: Change Initiative
         position: Research Assistant
-        location: Banani, Dhaka 1212, Bangladesh
+        location: Dhaka, Bangladesh
         start_date: 2022
         end_date: 2023
         summary: Supported the identification of research areas and development of proposals, research plans, and data collection tools, while managing electronic data systems and conducting fieldwork. Performed statistical, econometric, and economic analyses—including feasibility assessments—and translated findings into clear visualizations and research reports. Contributed to proposal development, stakeholder coordination, and preparation of thematic write-ups and concept notes. Also supported press briefings, dissemination events, and the preparation of policy briefs based on research evidence.
@@ -180,9 +180,9 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Economics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Behavioral Economics, Development Economics and Economics of Climate Chnage."
 
     Certificates:
       - name: Machine Learning
@@ -200,20 +200,20 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-envelope
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+    Fellowship:
+      - Role: Data Science Practitioner Fellow
+        name: Analytics for a Better World Fellowship 
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.  
+          - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”. 
+        start_date: 2024-09-01
+        end_date: 2024-11-01
 
     References:
-      - name: Professor John Doe
+      - name: Professor Dr. Selim Jahan
         icon: fa-solid fa-laptop
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
+      - name: Professor Dr. Kazi Mohammed Kamal Uddin
         icon: fa-solid fa-thumbtack
         reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
