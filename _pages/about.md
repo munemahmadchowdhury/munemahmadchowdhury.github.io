@@ -9,9 +9,9 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Hasina de Palace (flat:6B)</p>
-    <p>6/14, Block: A, Lalmatia</p>
-    <p>Mohammadpur, Dhaka-1207 Bangladesh</p>
+    <p>Earth Lily, I/12, Block-E</p>
+    <p>Lalmatia, Dhaka-1207</p>
+    <p>Bangladesh</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
