@@ -35,6 +35,8 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 
 
 
+
+
 ## Research Interests
 
 - Behavioral Economics
@@ -43,11 +45,15 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 - Energy Economics
 
 
+
+
 ## Exploring, Engaging, Evolving
 
 <div class="slides-container">
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQP7h4_pbbRfH4f-R4zFlJLbXaNiv1GH7UD59iIdIkJVVBla9JdXgpoXdz4kA8oLuMpROInNv-PXJ19/pubembed?start=true&loop=true&delayms=2000"   frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
+
+
 
 
 ## Ongoing Research
@@ -65,6 +71,9 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
    _Munem Ahmad Chowdhury_
 
 
+
+
+
 ## Research and Consultancy Awards
 
 Over the course of my career, I have successfully developed and secured multiple research and consultancy projects through competitive proposal writing, both as a team member and as a team leader.
@@ -73,6 +82,9 @@ Over the course of my career, I have successfully developed and secured multiple
 - $19,850 consultancy for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, _UNDP Bangladesh_
 - $20,000 research grant for a study on public traffic awareness; _Bangladesh Police_
 - $15,000 consultancy for a comprehensive study on climate risk insurance; _OXFAM Bangladesh_
+
+
+
 
 
 ## Other Engagements
@@ -90,6 +102,9 @@ In the news (2023 & 2024): [1](https://www.observerbd.com/news/497762), [2](http
 </div>
 
 
+
+
+
 ## What I am doing now!
 Here’s what I’m currently focusing on:
 
@@ -102,5 +117,3 @@ Here’s what I’m currently focusing on:
   📈 Learning Panel Econometrics and Spatial Econometrics
   
   📖 Reading Behavioral Economics: The Basics by Philip Corr and Anke Plagnol
-
-  
