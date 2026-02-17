@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Munem Ahmad Chowdhury",
+    "label": "PhD Applicant",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "munemahmad[at]gmail[dot]com",
+    "phone": "+8801836933939",
+    "summary": "Munem Ahmad Chowdhury is an aspiring researcher with a passion for economics and development. He completed his Bachelor's and Master's degrees in Economics from Comilla University, Bangladesh. He has been working as a Research Fellow in the Economic Division of the Bangladesh Institute of Social Research (BISR) Trust since June 2023. His research interests lie in the areas of behavioral economics, development economics, and economics of climate change",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Earth Lily, I/12, Block-E",
+      "postalCode": "1207",
+      "city": "Lalmatia",
+      "countryCode": "BD",
+      "region": "Dhaka"
     },
     "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Bangladesh Institute of Social Research Trust",
+      "position": "Research Fellow",
+      "location": "Lalmatia, Dhaka",
+      "startDate": "2023-06-16",
+      "endDate": "Present",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "highlights": ["Led completion of two research projects (climate-induced migration for BRAC and gender analysis of plastic waste value chain for UNDP), overseeing survey tool design, field supervision, data analysis, and report writing.", "Mentored a team of 3 interns and junior researchers in developing research proposals and implementing studies.", "Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development."]
     },
     {
       "name": "California Institute of Technology",
