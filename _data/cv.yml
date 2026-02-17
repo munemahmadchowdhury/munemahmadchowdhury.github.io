@@ -201,6 +201,7 @@ cv:
         icon: fa-solid fa-envelope
 
     Fellowships:
+      type: normal
       - name: Analytics for a Better World Fellowship
         summary: Data Science Practitioner Fellow
         highlights:
