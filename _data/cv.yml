@@ -200,14 +200,14 @@ cv:
         issuer: Stanford University
         icon: fa-solid fa-envelope
 
-    Fellowship:
-      - name: Analytics for a Better World Fellowship 
-        summary: Data Science Practitioner Fellow
+    Projects:
+      - name: Quantum Computing
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
         highlights:
-          - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.  
-          - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”. 
-        start_date: 2024-09-01
-        end_date: 2024-11-01
+          - Quantum Teleportation
+          - Quantum Cryptography
+        start_date: 2018-01-01
+        end_date: 2018-01-01
 
     References:
       - name: Professor Dr. Selim Jahan
