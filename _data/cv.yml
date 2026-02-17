@@ -31,70 +31,84 @@ cv:
         start_date: 2020
         end_date: 2020
         score: "3.54 out of 4.00"
-        courses: "Theory of Relativity"
-        highlights:
+        #courses: "Theory of Relativity"
+        #highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
+      - institution: Comilla University
+        location: Cumilla, Bangladesh
+        url: https://www.cou.ac.bd/
+        area: Economics
+        studyType: Bachelor
+        start_date: 2016
+        end_date: 2019
+        score: "3.54 out of 4.00"
+        #highlights:
           - Description 1.
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Bangladesh Institute of Social Research Trust
+        position: Research Fellow
+        location: Lalmatia, Dhaka, Bangladesh
+        start_date: 2025
+        end_date: Present
+        summary: Led the development of high-quality research outputs, including proposals, reports, publications, and policy briefs, ensuring strong academic rigor and policy relevance. Provided strategic oversight of research projects while representing the institution at national and international forums and strengthening partnerships with key stakeholders. Mentored research staff, delivered capacity-building initiatives, and offered intellectual leadership in shaping new research agendas. Also secured research and consultancy opportunities and performed additional responsibilities as assigned by institutional leadership.
         highlights:
-          - Relativity
-          - Description 2.
+          - Led completion of two research projects (climate-induced migration for BRAC and gender analysis of plastic waste value chain for UNDP), overseeing survey tool design, field supervision, data analysis, and report writing. 
+          - Mentored a team of 3 interns and junior researchers in developing research proposals and implementing studies. 
+          - Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development. 
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Bangladesh Institute of Social Research Trust
+        position: Research Associate
+        location: Lalmatia, Dhaka, Bangladesh
+        start_date: 2023
+        end_date: 2024
+        summary: Prepared research proposals, reports, articles, and presentations for seminars and workshops, ensuring quality and relevance. Actively participated in national and international events while monitoring ongoing research to ensure timely, budget-compliant, and high-quality completion. Coordinated with national and international research organizations and identified new research and consultancy opportunities. Also produced op-eds for national newspapers and carried out additional tasks as assigned.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Executed three research projects for TdH Netherlands, Chattogram City Corporation, and Ministry of Planning of GoB, contributing to methodology development, data collection, analysis, and reporting. 
+          - Facilitated an eight-day training for 42 enumerators, supervised the month-long data collection and managed field logistics for the End-line Evaluation of BRAC’s Gender Responsive Education and Skill Programme in Chattogram Hill Tracts (a hard-to-reach hilly area). 
+          - Authored two peer-reviewed journal articles and five op-eds in national newspapers, enhancing the organization's academic presence.
+          - Reviewed 16 research articles and organized two national-level conferences, fostering academic discourse. 
+          - Secured a $20,000 research grant from Bangladesh Police through a successful proposal for a study on public traffic awareness, collaborating with a co-researcher in proposal development. 
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Change Initiative
+        position: Research Assistant
+        location: Banani, Dhaka 1212, Bangladesh
+        start_date: 2022
+        end_date: 2023
+        summary: Supported the identification of research areas and development of proposals, research plans, and data collection tools, while managing electronic data systems and conducting fieldwork. Performed statistical, econometric, and economic analyses—including feasibility assessments—and translated findings into clear visualizations and research reports. Contributed to proposal development, stakeholder coordination, and preparation of thematic write-ups and concept notes. Also supported press briefings, dissemination events, and the preparation of policy briefs based on research evidence.
+        highlights:
+          - Completed five research and consultancy projects for WIN, European Climate Foundation, ALRD, TI Maldives and Oxfam, assisting PI in design survey tools, data cleaning & analysis, policy analysis, and report writing.
+          - Developed ODK forms for household data collection and managed databases for other projects.
+          - Organized the Dhaka Renewable Energy and Finance Talk (DREFT), facilitating international discourse on renewable energy financing, with participation from over 300 stakeholders.
+          - Secured a $15,000 consultancy from OXFAM Bangladesh through a competitive proposal process for a comprehensive study on climate risk insurance, supporting the PI in proposal development.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Comilla University
+        position: Graduate Research Assistant
+        location: Cumilla, Bangladesh
+        start_date: 2020
+        end_date: 2022
+        summary: Assisted in the design and implementation of academic research, including literature reviews, data collection, dataset management, and statistical/econometric analysis. Supported the preparation and editing of research proposals, manuscripts, reports, and grant applications while coordinating with research teams and administrative staff. Contributed to organizing academic events and handling research-related administrative tasks. Also supported teaching activities by preparing course materials and conducting tutorials, discussion sessions, and lab work to reinforce student learning.
+        highlights:
+          - Contributed to a research project focusing on economic growth and external financial means of implementation, assisting PI in literature review, methodology development, data analysis, and report writing.
+          - Published three research articles in peer-reviewed journals, expanding academic contributions and visibility.
+          - Developed course materials and instructed STATA and R training sessions over two semesters, enhancing students' analytical skills.
+          - Mentored two graduate students in econometrics, data analysis, and academic writing, supporting their thesis development and successful defense.
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Work on Climate
+        position: Quantitative Researcher, Impact Research Team
+        location: USA (Remote)
+        start_date: 2024-07-01
+        end_date: 2025-01-31
+        summary: Collaborated with the Executive Director and program teams to shape research goals aligned with organizational priorities and ensure methodological rigor in survey design and testing. Developed sampling strategies, managed field operations, and conducted quantitative analyses to produce reliable and actionable insights. Translated findings into clear, audience-focused reports and narratives. Also partnered with the Marketing and Communications team to effectively disseminate research through publications and presentations.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
+          - Assisted the team lead in designing the survey tool to meet quarterly survey targets.
+          - Supported survey implementation by developing sampling strategies, administering surveys, and coordinating distribution to 3,000 recipients via email and 31,000 via Slack.
+          - Performed quantitative analysis of survey data, including data cleaning and summarization in Google Sheets, to address key research questions.
+          
     Awards:
       - title: Nobel Prize in Physics
         authors:
@@ -137,13 +151,29 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Progamming
+        level: Intermediate
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
+        keywords: "R, Python, and STATA"
+      - name: Data Coolection Tool
+        level: Advanced
+        icon: fa-solid fa-hashtag
+        keywords: "ODK, Kobo Toolbox, and Survey CTO"   
+      - name: GIS & Spatial Analysis
+        level: Basic
+        icon: fa-solid fa-hashtag
+        keywords: "ArcGIS"  
+      - name: Software & Version Control
+        level: Basic
+        icon: fa-solid fa-hashtag
+        keywords: "GitHub"  
+      - name: Document Preparation
+        level: Basic
+        icon: fa-solid fa-hashtag
+        keywords: "LaTeX"  
+        
     Languages:
-      - name: German
+      - name: Bengali
         summary: "Native speaker"
 
       - name: English
