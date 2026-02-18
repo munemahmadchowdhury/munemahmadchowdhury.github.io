@@ -36,7 +36,6 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 <div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
 
-
 ## Research Interests
 
 - Behavioral Economics
@@ -44,7 +43,7 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 - Economics of Climate Change
 - Energy Economics
 
-
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
 
 ## Exploring, Engaging, Evolving
@@ -54,7 +53,7 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 </div>
 
 
-
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
 ## Ongoing Research
 
@@ -71,7 +70,7 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
    _Munem Ahmad Chowdhury_
 
 
-
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
 
 ## Research and Consultancy Awards
@@ -84,7 +83,7 @@ Over the course of my career, I have successfully developed and secured multiple
 - $15,000 consultancy for a comprehensive study on climate risk insurance; _OXFAM Bangladesh_
 
 
-
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
 
 ## Other Engagements
@@ -102,7 +101,7 @@ In the news (2023 & 2024): [1](https://www.observerbd.com/news/497762), [2](http
 </div>
 
 
-
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
 
 ## What I am doing now!
