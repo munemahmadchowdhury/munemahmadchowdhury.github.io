@@ -110,14 +110,6 @@ cv:
           - Performed quantitative analysis of survey data, including data cleaning and summarization in Google Sheets, to address key research questions.
           
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
       - title: Max Planck Medal
         authors:
           - "German Physical Society"
@@ -185,8 +177,8 @@ cv:
         keywords: "Behavioral Economics, Development Economics and Economics of Climate Chnage."
     
     Fellowships:
-      - company: Analytics for a Better World
-        position: Data Science Practitioner Fellow
+      - title: Data Science Practitioner Fellow
+        awarder: Analytics for a Better World
         highlights:
           - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.
           - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
