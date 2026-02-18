@@ -109,14 +109,15 @@ cv:
           - Supported survey implementation by developing sampling strategies, administering surveys, and coordinating distribution to 3,000 recipients via email and 31,000 via Slack.
           - Performed quantitative analysis of survey data, including data cleaning and summarization in Google Sheets, to address key research questions.
           
-    Awards:
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
-
+      - company: Analytics for a Better World
+        position: Data Science Practitioner Fellow
+        location: The Netherlands (Remote)
+        start_date: 2024-09-01
+        end_date: 2024-11-30
+        summary:  Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, Python and ArcGIS.
+        highlights:
+          - Collaborated with mentors and peers to develop a capstone project titled “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
+          
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
@@ -175,18 +176,7 @@ cv:
       - name: Economics
         icon: fa-solid fa-tag
         keywords: "Behavioral Economics, Development Economics and Economics of Climate Chnage."
-    
-    Fellowships:
-      - section_title: Fellowships
-        type: experience
-        content:
-          - company: Analytics for a Better World
-            position: Data Science Practitioner Fellow
-            start_date: 2024-09-01
-            end_date: 2024-11-30
-            description: Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.
-            highlights:
-              - Collaborated with mentors and peers to develop a capstone project titled “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
+
    
     Certificates:
       - name: Machine Learning
