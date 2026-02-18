@@ -183,7 +183,16 @@ cv:
       - name: Economics
         icon: fa-solid fa-tag
         keywords: "Behavioral Economics, Development Economics and Economics of Climate Chnage."
-
+    
+    Fellowships:
+      - company: Analytics for a Better World
+        position: Data Science Practitioner Fellow
+        highlights:
+          - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.
+          - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
+        start_date: 2024-09-01
+        end_date: 2024-11-30
+   
     Certificates:
       - name: Machine Learning
         date: 2018-01-01
@@ -199,15 +208,6 @@ cv:
         date: 2018-01-01
         issuer: Stanford University
         icon: fa-solid fa-envelope
-
-    Fellowships:
-      - company: Analytics for a Better World
-        position: Data Science Practitioner Fellow
-        highlights:
-          - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.
-          - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
-        start_date: 2024-09-01
-        end_date: 2024-11-30
 
     References:
       - name: Professor Dr. Selim Jahan
