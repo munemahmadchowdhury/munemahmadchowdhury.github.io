@@ -201,10 +201,8 @@ cv:
         icon: fa-solid fa-envelope
 
     Fellowships:
-      type: normal
-      content:
-      - name: Analytics for a Better World Fellowship
-        summary: Data Science Practitioner Fellow
+      - company: Analytics for a Better World
+        position: Data Science Practitioner Fellow
         highlights:
           - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.
           - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
