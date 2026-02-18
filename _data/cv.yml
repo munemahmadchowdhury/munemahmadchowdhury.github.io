@@ -176,14 +176,15 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Behavioral Economics, Development Economics and Economics of Climate Chnage."
     
-    Fellowships:
-      - title: Data Science Practitioner Fellow
-        awarder: Analytics for a Better World
-        highlights:
-          - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.
-          - Collaborated with mentors and peers to develop a capstone project titled as “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
-        start_date: 2024-09-01
-        end_date: 2024-11-30
+- section_title: Fellowships
+  type: normal
+  content:
+    - name: Analytics for a Better World Fellowship
+      summary: Data Science Practitioner Fellow
+      description: |
+        Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, and ArcGIS.
+      highlights:
+        - Collaborated with mentors and peers to develop a capstone project titled “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
    
     Certificates:
       - name: Machine Learning
