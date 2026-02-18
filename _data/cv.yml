@@ -202,6 +202,7 @@ cv:
 
     Fellowships:
       type: normal
+      content:
       - name: Analytics for a Better World Fellowship
         summary: Data Science Practitioner Fellow
         highlights:
