@@ -33,7 +33,7 @@ Currently, I am a **Research Fellow** at the [Bangladesh Institute of Social Res
 
 I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Economics** from [Comilla University](https://www.cou.ac.bd/), where I also worked as a **Graduate Research Assistant** under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies.
 
-
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
 
 
