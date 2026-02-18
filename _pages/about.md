@@ -112,3 +112,6 @@ Here’s what I’m currently focusing on:
 - ✍️ Writing an article on the nexus between Sustainable Industrialization and Climate Change Vulnerability
 - 📈 Learning Panel Econometrics and Spatial Econometrics
 - 📖 Reading Behavioral Economics: The Basics by Philip Corr and Anke Plagnol
+
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
+
