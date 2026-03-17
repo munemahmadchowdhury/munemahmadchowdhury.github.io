@@ -29,15 +29,13 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>He can be reached at:</p>
-      <p><kamaleco1[at]cou[dot]ac[dot]bd></p>
+      <p>kamaleco1[at]yahoo[dot]com ; kamaleco1[at]cou[dot]ac[dot]bd</p>
   - align: left
-    image: khurshedbhai.jpeg
-    content: khurshedbhai.md
+    image: zakirsir.jpeg
+    content: zakirsir.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>khurshed782[at]gmail[dot]com</p>
+      <p>He can be reached at:</p>
+      <p>zskbd[at]yahoo[dot]com ; zskbd[at]cou[dot]ac[dot]bd</p>
 
-
-
-      
 ---
