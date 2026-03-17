@@ -30,7 +30,6 @@ profiles:
     more_info: >
       <p>He can be reached at:</p>
       <p><kamaleco1[at]cou[dot]ac[dot]bd></p>
-      <p><kamaleco1[at]yahoo[dot]com></p>
   - align: left
     image: khurshedbhai.jpeg
     content: khurshedbhai.md
