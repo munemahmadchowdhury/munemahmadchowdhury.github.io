@@ -31,7 +31,7 @@ profiles:
       <p>He can be reached at:</p>
       <p>kamaleco1[at]yahoo[dot]com ; kamaleco1[at]cou[dot]ac[dot]bd</p>
   - align: left
-    image: zakirsir.jpeg
+    image: zakirsir.jpg
     content: zakirsir.md
     image_circular: false # crops the image to make it circular
     more_info: >
