@@ -2,7 +2,7 @@
 layout: page
 title: project 11
 description: Readiness for the Fourth Industrial Revolution (4IR)- Prospects and Challenges of Technical Education of Polytechnic Institutes in Bangladesh 
-img: assets/img/11.jpg
+img: assets/img/p11.jpg
 importance: 10
 category: research
 ---
