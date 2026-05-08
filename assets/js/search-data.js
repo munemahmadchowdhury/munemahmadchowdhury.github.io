@@ -483,7 +483,7 @@ ninja.data = [{
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
-          description: "with background image",
+          description: "Baseline Survey of the Community-Based Child Protection Mechanism for the Children of Garment Workers in Bangladesh Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",
