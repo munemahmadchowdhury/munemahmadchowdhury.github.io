@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 10
-description: Finding the Link Between International Migration and Climate Change: Salinity, Inundation, and River-Erosion Affected Areas in Bangladesh. 
+description: Finding the Link Between International Migration and Climate Change- Salinity, Inundation, and River-Erosion Affected Areas in Bangladesh. 
 img: assets/img/10.jpg
 importance: 11
 category: research
