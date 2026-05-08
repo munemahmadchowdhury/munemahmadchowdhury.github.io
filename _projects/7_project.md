@@ -15,7 +15,7 @@ Sample Size: 448 Questionnaire Survey, 14 KIIs, 10 FGDs and 8 IDIs
 
 Responsibilities: Survey Tools design, Field Team Supervision, Data Analysis and Report writing.
 
-Contributed to this project while working at Bangladesh Institute of Social Research Trust
+*Contributed to this project while working at Bangladesh Institute of Social Research Trust*
 
 
 # Executive Summary
