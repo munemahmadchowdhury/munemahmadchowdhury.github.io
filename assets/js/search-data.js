@@ -451,9 +451,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-state-of-accountability-of-state-owned-enterprises-in-the-maldives-for-ti-maldives",
-          title: 'State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.',
-          description: "January 2022 – August 2022",
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
