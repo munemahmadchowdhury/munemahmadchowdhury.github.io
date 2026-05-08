@@ -456,9 +456,9 @@ ninja.data = [{
           description: "Finding the Link Between International Migration and Climate Change- Salinity, Inundation, and River-Erosion Affected Areas in Bangladesh.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-project-11",
+          title: 'project 11',
+          description: "Readiness for the Fourth Industrial Revolution (4IR)- Prospects and Challenges of Technical Education of Polytechnic Institutes in Bangladesh",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
             },},{id: "projects-project-1",
