@@ -5,7 +5,6 @@ description: Integrity Assessment of Bangladesh Wash Sector (Water Resources Man
 img: assets/img/2.jpg
 importance: 19
 category: consultancy
-giscus_comments: true
 ---
 
 Duration: January 2023 – May 2023
