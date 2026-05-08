@@ -2,7 +2,7 @@
 layout: page
 title: project 4
 description: Understanding Political and Socio-Economic Impacts due to Climate Change Vulnerability and Explore Potential Capacities of Climate-Vulnerable Communities for Association for Land Reform and Development.
-img: assets/img/4.jpg
+img: assets/img/p4.jpg
 importance: 17
 category: research
 ---
