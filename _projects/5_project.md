@@ -16,5 +16,3 @@ Sample Size: 30 Semi-structured Questionnaire Survey, 14 KIIs, and 33 IDIs
 Responsibilities: Survey Tools Design and Developing ODK.
 
 *Contributed to this project while working at Change Initiative*
-
-
