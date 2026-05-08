@@ -1,80 +1,47 @@
 ---
 layout: page
 title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+description: Situation Analysis of Indigenous Entrepreneurship in Mymensingh
+img: assets/img/6.jpg
+importance: 15
+category: consultancy
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Duration: September 2022 – August 2023
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Client: Friedrich Naumann Foundation Bangladesh
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Sample Size: 210 Questionnaire Survey, 5 KIIs, 4 FGDs and 2 IDIs
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Responsibilities: Survey Tools design, Field Team Supervision, Data Analysis, and Report writing.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+*This is a consultancy project where my role was co-lead researcher*
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+# Executive Summary 
 
-{% raw %}
+This study aims to analyze the entrepreneurial landscape of indigenous communities in Madhupur and Haluaghat, mapping their business engagements and economic participation, identifying challenges faced and exploring strategies to overcome these constraints while involving indigenous men and women in various business activities. Additionally, it seeks to assess the impact of COVID-19 on small-scale enterprises in these communities. 
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+The recent population and household census in 2022 reveal that the indigenous population in the country is 1% of the total population, with 60% living in Chittagong division, the highest, and Barisal division having the lowest at 0.25%. Mymensingh division is home to 3.73% of the total minorities, with Madhupur upazila having 13,600 indigenous people and Haluaghat upazila having 28,272.
+Micro, small and medium enterprises (MSMEs) are crucial to Bangladesh's economy, contributing 25% of the GDP and reducing poverty, with 88.8% of the country's total enterprises being cottage and microenterprises, employing 56% of the country's workforce, with an average of two persons employed per enterprise, as per the Economic Census 2013. Entrepreneurship has the potential to create economic opportunities and promote the well-being of Indigenous communities in Bangladesh. Indigenous communities in Bangladesh are often marginalized and face socio-economic challenges such as poverty, limited access to resources, and discrimination. By supporting Indigenous entrepreneurs, individuals and communities can be empowered to take control of their economic futures and build sustainable livelihoods.
 
-{% endraw %}
+The survey was conducted in two stages. Initially, a business listing was done through stratified random sampling, and 300 businesses from each upazila were listed in the first stage. Subsequently, 210 business establishments were chosen at random from the business list, and a semi-structured questionnaire was employed to conduct the survey. This study employs both quantitative and qualitative methods, including a literature review, listing of business enterprises, semi-structured questionnaire surveys, key informant interviews, and focus group discussions with indigenous groups in the Madhoupur and Haluaghat area.
+
+A semi-structured questionnaire survey was conducted where 79.52% of the participants were male and 20.48% were female with a mean age of 40.74 years. Female entrepreneurs had a higher average age compared to male entrepreneurs. Both indigenous and Bengali entrepreneurs had a similar average age, and both ethnic groups were equally represented in the study. Bengali principal owners had a higher proportion of individuals with lower education levels while indigenous principal owners had a higher proportion of individuals with higher education levels. The majority of principal owners were married, with a higher percentage in Haluaghat than Madhupur, and the percentage of married principal owners was higher among indigenous than Bengali entrepreneurs.
+
+The survey results also reveal that local entrepreneurs are mostly involved in trade, with indigenous entrepreneurs more interested in the service sector than Bengalis. Manufacturing entrepreneurship is limited, and businesses were divided into 13 categories, with fashion and grooming products and grocery products being the most popular. In Haluaghat, the highest proportion of indigenous-owned businesses sell fashion and grooming products and groceries, while in Madhupur, the focus is on prepared food and drinks. In contrast, Bengali-owned businesses in Haluaghat mainly sell groceries, and in Madhupur, they focus on household accessories trading.
+
+The findings show that female entrepreneurs in Madhupur and Haluaghat rely heavily on local markets for their business essentials, with some preferring larger cities. The majority of entrepreneurs in both regions have not made sales through e-commerce platforms, and few receive product deliveries. Indigenous entrepreneurs in Haluaghat are more likely to be members of social or financial institutions than their Bengali counterparts. However, the association with cooperative organizations is less prevalent among people in Madhupur, particularly among the Bengali community. The most common reason for not joining trade or business associations in the study area is that they are not relevant to personal needs. 
+
+Indigenous entrepreneurs in Madhupur and Haluaghat faced higher losses due to product damage compared to Bengali individuals in the same regions during COVID-19. Bengali individuals in Haluaghat faced higher losses due to theft compared to indigenous entrepreneurs. Both communities commonly used borrowing from relatives and NGO loans to overcome pandemic-related losses, and many also used their savings as a strategy to mitigate the financial impact.
+
+In certain areas, opportunities have arisen for indigenous women to participate in collective business ventures, leading to an increasing interest in the business sector. Families and communities generally view this participation positively, and few obstacles arise from family-related issues. Research indicates that female indigenous business owners are more advanced than their male counterparts in the same field, typically focusing on products that appeal to women. Despite this progress, indigenous women still face limitations, with many working low-wage jobs or encountering financial barriers to starting their own businesses. Funding from microcredit organizations, a common source of financial support, can create difficulties for women entrepreneurs due to fluctuating revenue streams and loan repayment challenges. Furthermore, microcredit NGOs do not offer business management training, further complicating success. Discrimination and harassment are also common issues faced by young indigenous women in business centers where they are outnumbered by the Bengali community. Inadequate job opportunities and sanitation facilities make it challenging for female employees and business owners, and selection for training programs at the upazila level is often influenced by politics, leaving many indigenous women excluded. Additionally, geographical barriers can limit indigenous women's access to training opportunities. Finally, many indigenous women entrepreneurs lack prior training and are unfamiliar with online business operations.
+
+Indigenous people in the Madhupur area encounter difficulties in obtaining commercial loans from banks due to the absence of land tenure documents. In addition, they struggle to obtain electricity connections and often rely on microcredit from organizations to run their businesses. The government does not provide any loan programs that cater specifically to indigenous entrepreneurs, and they are not allotted a specific quota in training programs. Although short-term training programs are available, they are often inadequate, and the trainers may not have received recent skill development training. Indigenous microentrepreneurs experience significant business losses when they sell products on credit. These entrepreneurs typically operate in a collaborative and mutually supportive manner, with assistance from their families. They have limited interaction with various business organizations, and it can be challenging for them to sustain their businesses in areas where the indigenous population is vastly outnumbered by Bengalis. The COVID-19 pandemic has significantly impacted indigenous entrepreneurs, with many still struggling to recover from the financial losses incurred during this period. Furthermore, the increase in commodity prices and decrease in demand have resulted in a decrease in sales volume and profit.
+The potential opportunities for indigenous entrepreneurs include expanding their reach beyond the local market with products like agricultural goods and traditional clothing, and developing sustainable business models that appeal to socially conscious consumers. However, there are also threats, such as a lack of importance placed on business as a profession, obstacles created by the Bengali community, and declining profitability of traditional crafts. 
+
+To increase the presence and success of indigenous women in business centers, several targeted strategies can be implemented. These include arranging training programs and workshops to teach online business skills, addressing harassment and verbal abuse experienced by indigenous entrepreneurs, monitoring government-supported business points for women entrepreneurs, and providing resources and support for employees to find new job opportunities. Additionally, committees can be formed to advocate for and protect the rights of business employees, sanitation facilities can be improved and regular inspections conducted, and collaborations between businesses, government, and local communities can be encouraged. Other strategies include providing subsidies, grants, and technical assistance to indigenous craftspeople, promoting business networking opportunities, and implementing loan programs with low interest rates and flexible repayment terms. Finally, monitoring and evaluating the effectiveness of these strategies is essential to ensure they are meeting their intended goals.
+
+Supporting Indigenous enterprises in remote areas requires a place-based vision and initiatives that improve access to markets and financing, which can improve living conditions and contribute to achieving Sustainable Development Goals. Creating economic policies and practices that integrate indigenous communities into the formal economy is necessary, considering their needs and challenges, and the country's SDG plan should include support mechanisms for entrepreneurship opportunities to improve their socio-economic conditions sustainably.
+
