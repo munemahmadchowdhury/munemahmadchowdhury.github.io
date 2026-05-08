@@ -4,7 +4,7 @@ title: State of Accountability of State-Owned Enterprises in the Maldives for TI
 description: January 2022 – August 2022
 img: assets/img/1.jpg
 importance: 15
-category: work
+category: CI
 related_publications: false
 ---
 
