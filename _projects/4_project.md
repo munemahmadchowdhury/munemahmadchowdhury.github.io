@@ -1,80 +1,42 @@
 ---
 layout: page
 title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+description: Understanding Political and Socio-Economic Impacts due to Climate Change Vulnerability and Explore Potential Capacities of Climate-Vulnerable Communities for Association for Land Reform and Development.
+img: assets/img/4.jpg
+importance: 12
+category: research
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Duration: November 2022 – June 2023
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Client: Association for Land Reform and Development (ALRD)
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Sample Size: 650 Questionnaire Survey, 16 FGDs, 43 KIIs, and 16 Case Stories
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Responsibilities: Survey Tools design, Field Team Supervision, Data Analysis, and Report writing.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+*Contributed to this project while working at Change Initiative*
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## Executive Summary
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Bangladesh is particularly vulnerable to the effects of climate change due to its distinctive location, flat topography, and dense population. Several research studies have indicated a rise in severe weather phenomena, including heat waves, cold waves, cyclones, floods, droughts, and rising sea levels, in Bangladesh. As per the IPCC, the highest emissions pathway (RCP8.5) projects a rise of 3.6°C by end of the century, above the 1986–2005 baseline, compared to a rise of 1.0°C on the lowest emissions pathway (RCP2.6). The Climate Change Vulnerability Index 2022 has ranked Bangladesh as the most vulnerable country among 32 nations considered to be at significant risk. Livelihoods in coastal zone, where the poorest communities are, are at risk or under threat from saline intrusion and degrading natural resources linked to climate change. Bearing this in mind, this study focuses on the effects of climate change, specifically on land and natural resources such as land productivity, water, and the ecosystem of the Sundarbans; and its adverse impacts on native flora and fauna, biodiversity, permanent wetlands, habitat conditions, and growth changes. Additionally, the study examines the social, economic, political, and health vulnerabilities related to climate change especially the marginalized groups, including landless rural farmers, women, and indigenous communities, to climate change. Moreover, the state of GHG emission and its trajectory on land surface temperature and governance in climate finance from international sources have been examined under this study.
 
-{% raw %}
+“Climate justice refers to the reshaping of climate action from a technical effort to cut emissions into an approach that also addresses human rights and social inequality. Four pillars of climate justice are Intergenerational Injustice,Distributional (how the costs and benefits of climate change and action are shared), Procedural (ensuring the processes for making decisions about the impacts of and responses to climate change are fair, accountable and transparent) and the Recognition (recognizing differences between groups in how they experience climate change and their right to express these differences)”.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Considering the climate justice perspective, this study employs a mixed-methods approach, utilizing both qualitative and quantitative data to examine political and social awareness of climate change and assess the potential capabilities of communities that are vulnerable to its effects. A questionnaire survey was administered to 650 participants from five most climate vulnerable regions, including Coastal, Northern Bangladesh, Northwestern Bangladesh, Chittagong Hill Tracks, and Haor. Additionally, the qualitative component included Focus Group Discussions (FGDs), Key Informant Interviews (KII), and case studies gathered from both the survey areas as well as national level.
 
-{% endraw %}
+In Bangladesh, every year, an average of 3,000 hectares of land erodes in the country, resulting in the displacement of around 25,000 people. However, regarding the climate change impacts particularly on precious land resources, the study found that 5.1% of surveyed households had experienced land loss due to climate-induced disasters in last two years. Moreover, though approximately 3.30 million acres of Khas land in Bangladesh 6-7 million households do not own land. It is identified under this study that despite scope of distributing 0.50 acre of Khas land to each landless household in surveyed climate vulnerable hotspots, only one in five households in climate-vulnerable populations claimed of acquiring Khas lands from the government. However, out of the total allocation, 64% adopted the lands for non-agricultural purposes. The powerful elites have captured the Khas land through undue influence and bribery as around 73% of respondents claimed of paying unauthorized fees to acquire Khas land. However, according to the CEGIS, every year, Bangladesh loses 32 square kilometer of land due to erosion in rivers and the sea and on the other hand, 52 square kilometer of new land emerges from the water. Bangladesh should formulate Khas land management strategy considering the climate change induced displacements and addressing the risks of food insecurity and vulnerability of the climate victims.
+
+Climate change is expected to have significant consequences on ecosystems in Bangladesh, including increasing water stress on trees and soil erosion that reduces forest quality. The study revealed that surveyed households experienced disrupting nature or ecosystems and causing ecological imbalances due to climate-induced rising temperatures, changes in rainfall patterns, and extreme weather events. Moreover, 40% of households surveyed reported climate-induced disasters impacting their natural resources, such as forests, rivers, wetlands, and ocean resources. This poses a significant threat to nature-based solutions for adapting to climate change. Among the surveyed five regions Rangamati, a hill district, experienced the most significant degradation of natural resources (96%), followed by flash-flood area Sunamganj (68%).
+
+The study identified that one-third of forest lands have been affected by natural disasters, while the exposures of cyclone was the most prevalent. 38% of the surveyed households reported of experiencing forest degradation within the past two years. The Bandarban district in CHT had the highest level of degradation, with all surveyed households reporting it. The country’s biodiversity especially the wildlife is being impacted in numerous ways by the changing climate, such as alterations in their range, migration routes, reproduction patterns, and ability to survive. Study survey provided the insights that climate-induced disasters have affected 21% of wildlife overall, with the most significant impact being in the Rangamati district of the CHT, where 37% of wildlife has been impacted. Bangladesh is a delta region that is highly vulnerable to natural disasters, particularly those related to water. Water scarcities and water-borne diseases transmit through water are becoming increasingly common here. A significant percentage of surveyed households in Bandarban and Rangamati have been affected by early heavy rainfall that had negative consequence on the quality, availability, and accessibility of water from the natural resources. In Satkhira, storm surges and cyclones are the main causes of salinity. Rajshahi is particularly susceptible to drought, with a majority of respondents reporting having experienced that. A striking finding from qualitative examination revealed that women in the southwest coastal region who frequently wash their clothes in saline water are at a higher risk of developing skin and reproductive system issues, according to key informant interviews. Overall, not only health risks, but also the productivity of whole region are at risks due to poor adaptation mechanism.
+
+Climatic events can severely impact livelihoods and food security. Such disasters can damage infrastructure, destroy crops and livestock, and contaminate water sources, resulting in limited access to basic necessities such as food, water, and shelter. In addition, they can cause displacement, further worsening food insecurity. In the survey of 650 households, around a quarter reported that their households depend on natural resources to make a living. Of those, 29.40% households claimed that their income was decreased by natural resource damage in the previous two years. The study also specified that 46% of households experienced a high food crisis due to salinity, while topsoil erosion caused a higher food crisis for 36% of households. Moreover, the study revealed that almost a third (30%) of households experienced a high food crisis due to coastal flooding.
+
+Climate change in Bangladesh has a disproportionate impact on women, resulting in a range of negative consequences. Inadequate infrastructure exacerbates flooding and water quality issues, which pose significant health risks for women living along the coast. Floods and flash floods increase poverty and early marriage, while water scarcity creates additional workload and health problems for women and girls in the western and northwestern regions. Overall, the females are at risks of poverty leading towards to higher likelihood of food insecurity and malnutrition; limited access to drinking water increases workload for women for collecting water, increases probability of suffering from different gynecological problems in the long run; limited access to information of early warning for disasters increases risks for women and other marginalized groups despite having cyclone shelters in place. Due to climate disasters girls are more likely to drop out of school, food insecurity and disrupted production are common, and many women are forced to migrate. Cyclone shelters, designed without addressing gender needs, for example privacy or security, discourage women and girls from using those facilities. Inadequate shelters result in overcrowding leading to incidents of GBV. Questions on Gender Based Violence during natural disasters exposed that while most households reported feeling safe in their neighborhoods, a small percentage experienced gender-based violence due to stress caused by natural disasters, with mental torture being the most common form. Unfortunately, in most cases, no actions were taken against the violence. Furthermore, during a focus group discussion in Kurigram, participants agreed that girls are more likely to drop out of school than boys due to the impact of disasters on their households’ livelihoods. Bangladesh, being a Least Developed Country (LDC), is facing difficulties in fulfilling its basic needs, including improving dietary conditions to reduce greenhouse gas (GHG) emissions. The country has set an unconditional target to decrease GHG emissions from agriculture, forestry, and other land use (AFOLU) by 2.32% by 2030, with an additional 0.65% reduction if it receives international support. However, in rural communities, a significant percentage of respondents (49%) are unaware of methane gas emissions from livestock, while only 12% are aware of its harmful consequences. The use of livestock litter as fertilizer is common among 34% of respondents, while 33% dispose of it in open spaces, which is a concerning situation. Therefore, proper monitoring is needed in small rural communities to ensure a safer environment.
+
+The Government of Bangladesh has taken several initiatives to combat climate change, given its high vulnerability and apart from Nationally Determined Contribution (NDC) National Adaptation Plan (NAP) and Mujib Climate Prosperity Plan are major policy documents. Despite some achievements in the adaptation and disaster risk reduction are still urgent priority in Bangladesh as the livelihoods and wellbeing of millions of people are threatened. However, to ensure the climate justice and resilience in Bangladesh climate change policy must be adopted without delay, and a National Climate Council (NCC) led by the Prime Minister’s advisor should be formed to oversee its implementation; to implement the Nationally Determined Contributions (NDCs), National Adaptation Plan (NAP), and renewable energy goals, a Sustainable Finance Policy that incorporates climate finance must be devised as envisioned in the 7th Five Year Plan. Moreover, minimum of 10% of the yearly budget should be allocated for improving weather forecasting and building capacity for disaster preparedness, specifically for safeguarding crops and livestock through measures such as subsidized crop insurance at the grassroots level. The government should subsidize to ensure access to clean drinking water including rain water harvesting and desalination in regions facing water scarcity. Every climate project should be designed the need for community in coordination with concerned all agencies, or organizations during the planning stage. Aligning with the National Integrity Strategy, each climate action should be evidence-based and whole-of-governance should be key to adaptation and mitigation. Data related to climate projects should be gathered with accuracy and transparency, and made available to the public. The government should prioritize vulnerable populations in all its initiatives, including Khash lands and social safety net programs and food storage and distribution should be prioritized based on need in the areas most affected by the food crisis resulting from climate change. When allocating relief funds, the needs of vulnerable groups such as women, the elderly, and children should be given priority. The Community-led climate adaptation and resilience would be priority for all public, NGOs/CSOs and private sectors through encouraging best practices of integrating indigenous knowledge and practices.
+
+Regarding the CSO role, key priorities should be to conduct evidence-based advocacy and campaigns that focus on promoting climate justice, particularly for vulnerable groups such as landless, marginalized communities, and impoverished households, including distressed women; facilitate to engage community and youth to take community-led green entrepreneurship and citizens-led monitor of public and private climate adaptation and mitigation efforts. Last but not the least a strong coalition with regional and international climate activists should be framed soon to create effective demands for grants-based climate finance, as well as financing for potential loss and damages and advocate for the establishment of an international protocol that guarantees universal human rights for all climate victims, particularly those who have been displaced from their homes due to climate-related events.
+
