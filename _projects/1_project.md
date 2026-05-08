@@ -3,7 +3,7 @@ layout: page
 title: project 1
 description: State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.
 img: assets/img/1.jpg
-importance: 15
+importance: 20
 category: consultancy
 related_publications: false
 ---
