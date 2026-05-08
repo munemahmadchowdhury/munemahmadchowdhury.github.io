@@ -2,7 +2,7 @@
 layout: page
 title: project 5
 description: Renewable Energy Finance in Bangladesh- Prospects, Challenges, Risks and De-Risk Mechanisms
-img: assets/img/5.jpg
+img: assets/img/p5.jpg
 importance: 16
 category: research
 ---
