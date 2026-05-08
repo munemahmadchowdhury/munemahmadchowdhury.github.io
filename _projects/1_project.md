@@ -9,8 +9,11 @@ related_publications: false
 ---
 
 Client: TI Maldives
+
 Sample Size: 30 State Owned Enterprises and 8 KIIs
+
 Responsibilities: Documentation, Qualitative Transcription, and Report writing.
+
 *Contributed to this project while working at Change Initiative*
 
 
