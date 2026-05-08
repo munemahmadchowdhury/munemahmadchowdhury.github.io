@@ -2,7 +2,7 @@
 layout: page
 title: project 6
 description: Situation Analysis of Indigenous Entrepreneurship in Mymensingh
-img: assets/img/6.jpg
+img: assets/img/p6.jpg
 importance: 15
 category: consultancy
 giscus_comments: true
