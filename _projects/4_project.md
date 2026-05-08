@@ -5,7 +5,6 @@ description: Understanding Political and Socio-Economic Impacts due to Climate C
 img: assets/img/4.jpg
 importance: 17
 category: research
-giscus_comments: true
 ---
 
 Duration: November 2022 – June 2023
