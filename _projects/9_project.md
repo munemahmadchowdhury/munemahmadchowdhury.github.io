@@ -2,7 +2,7 @@
 layout: page
 title: project 9
 description: An Assessment and Development Plan Preparation of Playgrounds, Vacant Land, and Greening Open Spaces in Chattogram City Corporation (CCC) Area.
-img: assets/img/9.jpg
+img: assets/img/p9.jpg
 importance: 12
 category: consultancy
 ---
