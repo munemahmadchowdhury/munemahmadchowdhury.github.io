@@ -4,7 +4,7 @@ title: project 7
 description: Baseline Survey of the Community-Based Child Protection Mechanism for the Children of Garment Workers in Bangladesh Project
 img: assets/img/7.jpg
 importance: 14
-category: work
+category: consultancy
 ---
 
 Duration: October 2023 – January 2024
