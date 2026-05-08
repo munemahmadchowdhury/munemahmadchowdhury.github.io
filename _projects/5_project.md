@@ -5,7 +5,6 @@ description: Renewable Energy Finance in Bangladesh: Prospects, Challenges, Risk
 img: assets/img/5.jpg
 importance: 16
 category: research
-giscus_comments: true
 ---
 
 Duration: October 2022 – June 2023
