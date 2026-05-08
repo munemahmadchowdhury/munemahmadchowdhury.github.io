@@ -456,6 +456,11 @@ ninja.data = [{
           description: "Finding the Link Between International Migration and Climate Change- Salinity, Inundation, and River-Erosion Affected Areas in Bangladesh.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_project/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/11_project/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.",
