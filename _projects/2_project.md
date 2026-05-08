@@ -15,7 +15,7 @@ Sample Size: 100 Semi-structured Questionnaire Survey, 16 KIIs, and 8 FGDs
 
 Responsibilities: Qualitative Data Collection, Analyzing Acts and Policies, and Report writing.
 
-Contributed to this project while working at Change Initiative
+*Contributed to this project while working at Change Initiative*
 
 
 ## Executive Summary
