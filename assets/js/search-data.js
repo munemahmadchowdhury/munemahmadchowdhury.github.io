@@ -471,9 +471,9 @@ ninja.data = [{
           description: "Understanding Political and Socio-Economic Impacts due to Climate Change Vulnerability and Explore Potential Capacities of Climate-Vulnerable Communities for Association for Land Reform and Development.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "Renewable Energy Finance in Bangladesh- Prospects, Challenges, Risks and De-Risk Mechanisms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
