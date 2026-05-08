@@ -3,7 +3,7 @@ layout: page
 title: project 3 
 description: Gender Transformative Climate Resilient Microfinance Project
 img: assets/img/3.jpg
-importance: 13
+importance: 18
 category: consultancy
 giscus_comments: true
 ---
