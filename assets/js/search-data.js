@@ -461,6 +461,11 @@ ninja.data = [{
           description: "Readiness for the Fourth Industrial Revolution (4IR)- Prospects and Challenges of Technical Education of Polytechnic Institutes in Bangladesh",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_project/";
+            },},{id: "projects-project-12",
+          title: 'project 12',
+          description: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar &amp; Tangail (Plastic Circularity Ecosystem and Circular Economy)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/12_project/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.",
