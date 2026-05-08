@@ -5,7 +5,6 @@ description: Gender Transformative Climate Resilient Microfinance Project
 img: assets/img/3.jpg
 importance: 18
 category: consultancy
-giscus_comments: true
 ---
 
 Duration: March 2023 – June 2023
