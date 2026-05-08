@@ -1,12 +1,13 @@
 ---
 layout: page
-title: State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.
-description: January 2022 – August 2022
+title: project 1
+description: State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.
 img: assets/img/1.jpg
 importance: 15
 category: consultancy
 related_publications: false
 ---
+Duration: January 2022 – August 2022
 
 Client: TI Maldives
 
