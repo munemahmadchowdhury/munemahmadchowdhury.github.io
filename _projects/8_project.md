@@ -2,7 +2,7 @@
 layout: page
 title: project 8
 description: End-line Evaluation of BRAC’s Gender Responsive Education and Skill Programme
-img: assets/img/8.jpg
+img: assets/img/p8.jpg
 importance: 13
 category: consultancy
 ---
