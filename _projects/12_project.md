@@ -2,7 +2,7 @@
 layout: page
 title: project 12
 description: Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar & Tangail (Plastic Circularity Ecosystem and Circular Economy)
-img: assets/img/12.jpg
+img: assets/img/p12.jpg
 importance: 9
 category: consultancy
 ---
