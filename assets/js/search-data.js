@@ -468,7 +468,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
-          description: "another without an image",
+          description: "Understanding Political and Socio-Economic Impacts due to Climate Change Vulnerability and Explore Potential Capacities of Climate-Vulnerable Communities for Association for Land Reform and Development.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
