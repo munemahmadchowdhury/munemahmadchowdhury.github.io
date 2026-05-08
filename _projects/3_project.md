@@ -3,79 +3,41 @@ layout: page
 title: project 3 
 description: Gender Transformative Climate Resilient Microfinance Project
 img: assets/img/3.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+importance: 13
+category: consultancy
+giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Duration: March 2023 – June 2023
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Client: Gono Unnoyon Kendra, Bangladesh
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Sample Size: 200 Questionnaire Survey, 12 FGDs, 20 KIIs and 4 case stories
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Responsibilities: Survey Tools Design, Developing ODK & Data Base Management.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+*This is a consultancy project where my role was Data Analyst*
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+# Executive Summary
 
-{% raw %}
+## Background and Context
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Bangladesh ranks among the world’s most climate-vulnerable nations (World Risk Index 2021: rank 16.23), facing recurrent disasters like cyclones, floods, and erosion, which exacerbate gender inequalities and economic losses (estimated at USD 16.7 billion in 2021). Women and girls are disproportionately affected due to limited decision-making roles and reliance on climate-sensitive livelihoods. Microfinance services (MFS) offer a pathway to resilience by providing loans, savings, and insurance to vulnerable populations, potentially empowering women and integrating climate adaptation. This project, implemented by Gana Unnayan Kendra (GUK) with support from Christian Aid (CA), aims to embed gender-transformative and climate-resilient strategies into microfinance operations, addressing gaps in beneficiary selection, fund allocation, and activity implementation. The inception report, submitted by Change Initiative on June 20, 2023, outlines the research framework to generate evidence-based guidelines for scaling such models nationwide, where MFS reaches ~50% of the population.
 
-{% endraw %}
+## Objectives
+
+The goal is to enhance climate resilience and gender inclusivity in GUK’s microfinance ventures, safeguarding vulnerable households’ assets and promoting adaptive practices. Specific objectives include:
+
+Develop recommendations for a gender-transformative, climate-resilient microfinance system.
+Review and adapt participatory modules for gender equality and climate-resilient income-generating activities (IGAs).
+Create guidelines and modules for climate risk assessment and gender-transformative approaches.
+The Gender Transformative Framework emphasizes institutional arrangements, capacity building, inclusive financial services, integrated resilience-empowerment strategies, monitoring, advocacy, and enforcement to challenge norms and empower women.
+
+## Scope and Methodology
+
+The study scope encompasses desk reviews of literature/policies, module assessments, and guideline development for gender/climate integration in microfinance. A mixed-methods approach combines qualitative (FGDs: 12, n=8–10 participants each; KIIs: 20 with stakeholders like ministries, NGOs; case stories: 4) and quantitative (household surveys: n=200 via stratified random sampling in Rowmari and Rajibpur Upazilas) data. Tools include structured questionnaires, checklists, and KoBo Toolbox for CAPI collection. Sampling ensures proportionality (e.g., 100 per Upazila, stratified by occupation/gender). Data management involves cleaning, triangulation, and analysis (uni-/bi-variate for quantitative; thematic for qualitative) using SPSS, Excel, and ArcGIS where applicable. Quality assurance includes training (2 days for 10 enumerators), supervision (5 field supervisors), and checks (accompany, spot, back, daily). Ethical considerations: informed consent, confidentiality, and respondent anonymity.
+
+## Findings
+
+It can’t be shared due to client’s restriction.
