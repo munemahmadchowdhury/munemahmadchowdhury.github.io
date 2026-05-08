@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: project 3 
+description: Gender Transformative Climate Resilient Microfinance Project
+img: assets/img/3.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work
