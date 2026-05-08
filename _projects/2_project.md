@@ -2,7 +2,7 @@
 layout: page
 title: project 2
 description: Integrity Assessment of Bangladesh Wash Sector (Water Resources Management, Water Supply, Sanitation, and Climate Change Adaptation).
-img: assets/img/2.jpg
+img: assets/img/p2.jpg
 importance: 19
 category: consultancy
 ---
