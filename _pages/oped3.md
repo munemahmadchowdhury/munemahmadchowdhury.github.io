@@ -3,7 +3,6 @@ layout: page
 title: "Climate change is blowing up our electricity expenses"
 permalink: /oped/oped3/
 nav: false
-importance: 18
 ---
 
 **Published in:** The Business Standard
