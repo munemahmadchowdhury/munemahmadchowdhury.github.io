@@ -10,56 +10,56 @@ nav_order: 4
 <div class="oped-grid">
 
   <div class="oped-card">
-    <a href="/oped/এল নিনো এবং বাজেট ভাবনা (El Niño and Budget Reflections)/">
+    <a href="/oped/oped1.md/">
       <img src="/assets/img/oped1.jpg" alt="Op-ed thumbnail">
       <p class="oped-title">এল নিনো এবং বাজেট ভাবনা (El Niño and Budget Reflections)</p>
     </a>
   </div>
 
   <div class="oped-card">
-    <a href="/oped/দক্ষিণ এশিয়ায় একক মুদ্রা! (A single currency in South Asia!)/">
+    <a href="/oped/oped2.md/">
       <img src="/assets/img/oped2.jpg" alt="Op-ed thumbnail">
       <p class="oped-title">দক্ষিণ এশিয়ায় একক মুদ্রা! (A single currency in South Asia!)</p>
     </a>
   </div>
 
   <div class="oped-card">
-    <a href="/oped/Climate change is blowing up our electricity expenses/">
+    <a href="/oped/oped3.md/">
       <img src="/assets/img/oped3.jpg" alt="Op-ed thumbnail">
       <p class="oped-title">Climate change is blowing up our electricity expenses</p>
     </a>
   </div>
 
   <div class="oped-card">
-    <a href="/oped/Gamification in Learning: Enhancing Student Engagement in Universities/">
+    <a href="/oped/oped4.md/">
       <img src="/assets/img/oped4.jpg" alt="Op-ed thumbnail">
       <p class="oped-title">Gamification in Learning: Enhancing Student Engagement in Universities</p>
     </a>
   </div>
 
   <div class="oped-card">
-    <a href="/oped/Are we doing right by our remittance warriors?/">
+    <a href="/oped/oped5.md/">
       <img src="/assets/img/oped5.jpg" alt="Op-ed thumbnail">
       <p class="oped-title">Are we doing right by our remittance warriors?</p>
     </a>
   </div>
 
   <div class="oped-card">
-    <a href="/oped/শিক্ষা খাতে স্বচ্ছতা বৃদ্ধিতে ব্লকচেইন (Blockchain to enhance transparency in the education sector)/">
+    <a href="/oped/oped6.md/">
       <img src="/assets/img/oped6.jpg" alt="Op-ed thumbnail">
       <p class="oped-title">শিক্ষা খাতে স্বচ্ছতা বৃদ্ধিতে ব্লকচেইন (Blockchain to enhance transparency in the education sector)</p>
     </a>
   </div>
 
     <div class="oped-card">
-    <a href="/oped/ Bangladesh needs a national heat action plan/">
+    <a href="/oped/oped7.md/">
       <img src="/assets/img/oped7.jpg" alt="Op-ed thumbnail">
-      <p class="oped-title"> Bangladesh needs a national heat action plan</p>
+      <p class="oped-title">Bangladesh needs a national heat action plan</p>
     </a>
   </div>
 
     <div class="oped-card">
-    <a href="/oped/Time Privilege: The Hidden Dimension of the Inequality/">
+    <a href="/oped/oped8.md/">
       <img src="/assets/img/oped8.jpg" alt="Op-ed thumbnail">
       <p class="oped-title">Time Privilege: The Hidden Dimension of the Inequality</p>
     </a>
