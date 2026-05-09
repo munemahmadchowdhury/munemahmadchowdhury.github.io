@@ -3,7 +3,6 @@ layout: page
 title: "শিক্ষা খাতে স্বচ্ছতা বৃদ্ধিতে ব্লকচেইন (Blockchain to enhance transparency in the education sector)"
 permalink: /oped/oped6/
 nav: false
-importance: 17
 ---
 
 **Published in:** The Daily Samakal
