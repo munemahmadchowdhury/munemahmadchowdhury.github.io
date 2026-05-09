@@ -1,0 +1,24 @@
+<div class="pub-item" style="display: flex; margin-bottom: 20px;">
+
+  <!-- LEFT SIDE -->
+  <div style="width: 150px; text-align: center;">
+    {% if entry.preview %}
+      <img src="{{ entry.preview | prepend: '/assets/img/' }}" style="width: 120px;">
+    {% endif %}
+    <div style="font-size: 12px;">{{ entry.journal }}</div>
+  </div>
+
+  <!-- RIGHT SIDE -->
+  <div style="margin-left: 20px;">
+    <div>
+      <a href="{{ entry.url }}" target="_blank">
+        <strong>{{ entry.title }}</strong>
+      </a>
+    </div>
+
+    <div>{{ entry.author }}</div>
+
+    <div>{{ entry.year }}</div>
+  </div>
+
+</div>
