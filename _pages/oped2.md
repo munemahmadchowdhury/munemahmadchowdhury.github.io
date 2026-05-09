@@ -3,7 +3,7 @@ layout: page
 title: "দক্ষিণ এশিয়ায় একক মুদ্রা! (A single currency in South Asia!)"
 permalink: /oped/oped2/
 nav: false
-importance: 20
+importance: 19
 ---
 
 **Published in:** The Daily Janakantha
