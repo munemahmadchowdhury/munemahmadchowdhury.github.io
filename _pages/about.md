@@ -117,3 +117,14 @@ Here’s what I’m currently focusing on:
 
 <div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
 
+
+## Latest LinkedIn Post
+
+<div style="border-left: 4px solid #0077B5; padding: 10px 16px; margin: 1rem 0; background: #f5f5f5; border-radius: 4px;">
+  <p><strong><a href="https://www.linkedin.com/posts/munem-ahmad-chowdhury_timeprivilege-time-inequality-share-7455521407310032896-1n-X?utm_source=share&utm_medium=member_desktop&rcm=ACoAACuRkuUB2CwiKsfFl8eI3agY_8W6b5jeCdg" target="_blank">We talk about privilege through the usual lenses; wealth, race, gender, access. But we miss something quieter and sneakier, that is time.</a></strong></p>
+  <p style="color:#555; font-size:0.85rem;">Posted on LinkedIn · May 2025</p>
+</div>
+
+<p><a href="https://www.linkedin.com/in/munem-ahmad-chowdhury" target="_blank">→ See all my LinkedIn posts</a></p>
+
+<div style="margin-bottom: 3rem;"></div>  <!-- Adds ~48px space (adjust rem value) -->
