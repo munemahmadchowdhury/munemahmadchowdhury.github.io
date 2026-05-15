@@ -471,6 +471,11 @@ ninja.data = [{
           description: "Independent Verification of Enterprise Based Training (EBT) under ASSET Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_project/";
+            },},{id: "projects-project-14",
+          title: 'project 14',
+          description: "Impact Assessment of Capacity Building and Access-to-Finance Interventions for Women Enterpreneurs&#39; RE-Based Livelihood",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/14_project/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "State of Accountability of State-Owned Enterprises in the Maldives for TI Maldives.",
