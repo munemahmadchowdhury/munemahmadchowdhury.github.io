@@ -5,7 +5,7 @@ author: Philip Corr and Anke Plagnol
 cover: assets/img/book_covers/behavioral_economics_phillips.jpg
 categories: behavior economics
 tags: top-100
-date: 2026-08-23
+date: 2026-06-23
 started: 2026-05-01
 finished: 
 released: 2023 (Second Edition)
