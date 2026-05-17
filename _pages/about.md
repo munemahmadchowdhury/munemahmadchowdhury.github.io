@@ -13,7 +13,7 @@ profile:
     <p>Lalmatia, Dhaka-1207</p>
     <p>Bangladesh</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+recent_publication: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
