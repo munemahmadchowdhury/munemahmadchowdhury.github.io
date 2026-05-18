@@ -432,7 +432,7 @@ ninja.data = [{
           title: 'Behavioral Economics',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/behavioral_economics_phillips/";
+              window.location.href = "/books/behavioral-economics-phillips/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
