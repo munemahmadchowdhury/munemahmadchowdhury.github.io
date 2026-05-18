@@ -185,68 +185,19 @@ cv:
         url: https://www.iosrjournals.org/iosr-jrme/papers/Vol-10%20Issue-3/Series-6/C1003061423.pdf
 
     Op-Eds:
-      - title: "Time Privilege: The Hidden Dimension of the Inequality"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "Medium (Self-published)"
-        releaseDate: 2026-04-30
-        url: https://www.linkedin.com/in/munem-ahmad-chowdhury
-
-      - title: "Bangladesh needs a national heat action plan"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "The Daily Star"
-        releaseDate: 2026-03-28
-
-      - title: "Blockchain to enhance transparency in the education sector"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "The Daily Samakal"
-        releaseDate: 2025-09-02
-
-      - title: "Are we doing right by our remittance warriors?"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "The Dhaka Tribune"
-        releaseDate: 2024-11-07
-
-      - title: "Gamification in Learning: Enhancing Student Engagement in Universities"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "Dhaka Courier"
-        releaseDate: 2024-07-26
-
-      - title: "Climate change is blowing up our electricity expenses"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "The Business Standard"
-        releaseDate: 2024-04-18
-
-      - title: "Common Currency in South Asia!"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "The Daily Janakantha"
-        releaseDate: 2023-09-09
-
-      - title: "El Nino and Thoughts on Budget"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "The Bangla Tribune"
-        releaseDate: 2023-08-02
+      - bullet: "[Time Privilege: The Hidden Dimension of the Inequality](https://medium.com/@munemahmad/time-privilege-the-hidden-dimension-of-the-inequality-decd019a454f) — *Medium (Self-published), April 30, 2026*"
+      - bullet: "[Bangladesh needs a national heat action plan](https://www.thedailystar.net/opinion/news/bangladesh-needs-national-heat-action-plan-4137046#:~:text=The%20escalating%20heatwave%20crisis%20in,and%20prepare%20the%20healthcare%20system.) — *The Daily Star, March 28, 2026*"
+      - bullet: "[Blockchain to enhance transparency in the education sector](https://samakal.com/opinion/article/313628/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-%E0%A6%96%E0%A6%BE%E0%A6%A4%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A6%A4%E0%A6%BE-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%B2%E0%A6%95%E0%A6%9A%E0%A7%87%E0%A6%87%E0%A6%A8) — *The Daily Samakal, September 02, 2025*"
+      - bullet: "[Are we doing right by our remittance warriors?](https://www.dhakatribune.com/opinion/op-ed/364479/are-we-doing-right-by-our-remittance-warriors) — *The Dhaka Tribune, November 07, 2024*"
+      - bullet: "[Gamification in Learning: Enhancing Student Engagement in Universities](https://www.dhakacourier.com.bd/news/Featured_2/Gamification-in-Learning-Enhancing-Student-Engagement-in-Universities/8314) — *Dhaka Courier, July 26, 2024*"
+      - bullet: "[Climate change is blowing up our electricity expenses](https://www.tbsnews.net/thoughts/climate-change-blowing-our-electricity-expenses-831116) — *The Business Standard, April 18, 2024*"
+      - bullet: "[Common Currency in South Asia!](https://www.dailyjanakantha.com/opinion/news/698277) — *The Daily Janakantha, September 09, 2023*"
+      - bullet: "[El Nino and Thoughts on Budget](https://www.banglatribune.com/columns/810770/%E2%80%98%E0%A6%8F%E0%A6%B2-%E0%A6%A8%E0%A6%BF%E0%A6%A8%E0%A7%8B%E2%80%99-%E0%A6%8F%E0%A6%AC%E0%A6%82-%E0%A6%AC%E0%A6%BE%E0%A6%9C%E0%A7%87%E0%A6%9F-%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE) — *The Bangla Tribune, August 02, 2023*"
 
     Consultancy:
-      - title: "Situation Analysis of Indigenous Entrepreneurship in Mymensingh"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "FNF Bangladesh"
-        releaseDate: 2023-01-01
-
-      - title: "Gender Transformative Climate Resilient Microfinance Project"
-        authors:
-          - Munem Ahmad Chowdhury
-        publisher: "Gana Unnayan Kendra (GUK)"
-        releaseDate: 2023-01-01
-
+      - bullet: "Situation Analysis of Indigenous Entrepreneurship in Mymensingh — *FNF Bangladesh, 2023* | Role: Co-lead Researcher"
+      - bullet: "Gender Transformative Climate Resilient Microfinance Project — *Gana Unnayan Kendra (GUK), 2023* | Role: Questionnaire development, database management, data analysis"
+      
     Skills:
       - name: Statistical Software
         level: Intermediate
