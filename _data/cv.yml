@@ -25,7 +25,7 @@ cv:
         highlights:
           - "CGPA: 3.54 out of 4.00 (Thesis based)"
           - "Thesis: Nexus between Infrastructural Development and Economic Growth"
-          - "Supervisor: Dr. Zakir Saadullah Khan"
+          - "Supervisor: Professor Dr. M. Zakir Saadullah Khan"
 
       - institution: Comilla University
         location: Cumilla, Bangladesh
@@ -36,6 +36,8 @@ cv:
         end_date: 2019
         highlights:
           - "CGPA: 3.66 out of 4.00"
+          - "Research Report: Disintegrated impact of trade openness on income inequality: empirical evidence from Bangladesh"
+          - "Supervisor: Professor Dr. Kazi Mohammed Kamal Uddin"
 
     Experience:
       - company: Bangladesh Institute of Social Research Trust
