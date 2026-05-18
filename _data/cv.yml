@@ -3,7 +3,6 @@ cv:
   label: Research Fellow
   email: munemahmad@gmail.com
   location: Earth Lily, I/12, Block-E, Lalmatia, Dhaka-1207, Bangladesh
-  image: ""
   summary: Munem Ahmad Chowdhury is an aspiring researcher with a passion for economics and development. He completed his Bachelor's and Master's degrees in Economics from Comilla University, Bangladesh. His research interests lie in the areas of behavioral economics, development economics, and economics of climate change.
 
   social_networks:
@@ -189,63 +188,63 @@ cv:
       - title: "Time Privilege: The Hidden Dimension of the Inequality"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: Medium (Self-published)
+        publisher: "Medium (Self-published)"
         releaseDate: 2026-04-30
         url: https://www.linkedin.com/in/munem-ahmad-chowdhury
 
-      - title: Bangladesh needs a national heat action plan
+      - title: "Bangladesh needs a national heat action plan"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: The Daily Star
+        publisher: "The Daily Star"
         releaseDate: 2026-03-28
 
-      - title: Blockchain to enhance transparency in the education sector
+      - title: "Blockchain to enhance transparency in the education sector"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: The Daily Samakal
+        publisher: "The Daily Samakal"
         releaseDate: 2025-09-02
 
-      - title: Are we doing right by our remittance warriors?
+      - title: "Are we doing right by our remittance warriors?"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: The Dhaka Tribune
+        publisher: "The Dhaka Tribune"
         releaseDate: 2024-11-07
 
-      - title: Gamification in Learning: Enhancing Student Engagement in Universities
+      - title: "Gamification in Learning: Enhancing Student Engagement in Universities"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: Dhaka Courier
+        publisher: "Dhaka Courier"
         releaseDate: 2024-07-26
 
-      - title: Climate change is blowing up our electricity expenses
+      - title: "Climate change is blowing up our electricity expenses"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: The Business Standard
+        publisher: "The Business Standard"
         releaseDate: 2024-04-18
 
-      - title: Common Currency in South Asia!
+      - title: "Common Currency in South Asia!"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: The Daily Janakantha
+        publisher: "The Daily Janakantha"
         releaseDate: 2023-09-09
 
-      - title: El Nino and Thoughts on Budget
+      - title: "El Nino and Thoughts on Budget"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: The Bangla Tribune
+        publisher: "The Bangla Tribune"
         releaseDate: 2023-08-02
 
     Consultancy:
-      - title: Situation Analysis of Indigenous Entrepreneurship in Mymensingh
+      - title: "Situation Analysis of Indigenous Entrepreneurship in Mymensingh"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: FNF Bangladesh
+        publisher: "FNF Bangladesh"
         releaseDate: 2023-01-01
 
-      - title: Gender Transformative Climate Resilient Microfinance Project
+      - title: "Gender Transformative Climate Resilient Microfinance Project"
         authors:
           - Munem Ahmad Chowdhury
-        publisher: Gana Unnayan Kendra (GUK)
+        publisher: "Gana Unnayan Kendra (GUK)"
         releaseDate: 2023-01-01
 
     Skills:
