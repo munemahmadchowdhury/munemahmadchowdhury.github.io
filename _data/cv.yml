@@ -2,12 +2,10 @@ cv:
   name: Munem Ahmad Chowdhury
   label: "Research Fellow"
   email: munemahmad@gmail.com
-  location: Earth Lily, I/12, Block-E, Lalmatia, Dhaka-1207, Bangladesh
+  location: "Earth Lily, I/12, Block-E, Lalmatia, Dhaka-1207, Bangladesh"
   summary: "Munem Ahmad Chowdhury is an aspiring researcher with a passion for economics and development. He completed his Bachelor's and Master's degrees in Economics from Comilla University, Bangladesh. His research interests lie in the areas of behavioral economics, development economics, and economics of climate change."
 
   social_networks:
-    - network: X
-      username: munem_ahmad
     - network: GitHub
       username: munemahmadchowdhury
     - network: LinkedIn
