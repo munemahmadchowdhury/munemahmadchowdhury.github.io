@@ -8,13 +8,13 @@ end_date: 2022-04
 location: Cumilla University
 ---
 
-## Experience as Teaching Assistant
+#### Experience as Teaching Assistant
 
 - Assisted in developing course materials for Statistics, Econometrics, and International Trade I & II.
 - Conducted STATA and R training sessions over two semesters.
 - Administered and graded class tests (CTs) and midterm exams.
 
-## Experience as Research Mentor
+#### Experience as Research Mentor
 
 > Thesis Title: Factors Affecting the Exchange Rate in the Aspect of Bangladesh: An ARDL Approach	
 > Name        :	Jebunnesa Binte Zaman
@@ -29,7 +29,7 @@ location: Cumilla University
 
 
 
-### Mentorship Responsibilities:
+#### Mentorship Responsibilities:
    *  Supporting  the mentees on appropriate research methods and techniques for data collection, analysis, and interpretation, considering the nature of the research questions and available data sources.
    *  Help them understand relevant econometric methodologies as per the studies’ requirements 
    *  Regularly review and provide constructive feedback on the mentees' work in progress, including drafts of research chapters, data analysis, and findings, to help improve the quality and rigor of the research.
