@@ -11,7 +11,6 @@ finished:
 released: 2023
 stars: 
 status: "Reading"
-permalink: /books/behavioral_economics_phillips/
 ---
 
 
