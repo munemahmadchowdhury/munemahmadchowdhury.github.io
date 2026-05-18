@@ -3,8 +3,8 @@ cv:
   label: Research Fellow
   email: munemahmad@gmail.com
   location: Earth Lily, I/12, Block-E, Lalmatia, Dhaka-1207, Bangladesh
-  image: assets/img/prof_pic.png
-  summary: Munem Ahmad Chowdhury is an aspiring researcher with a passion for economics and development. He completed his Bachelor's and Master's degrees in Economics from Comilla University, Bangladesh. He has been contributing to the Economic Division of the Bangladesh Institute of Social Research (BISR) Trust since June 2023. His research interests lie in the areas of behavioral economics, development economics, and economics of climate change.
+  image: ""
+  summary: Munem Ahmad Chowdhury is an aspiring researcher with a passion for economics and development. He completed his Bachelor's and Master's degrees in Economics from Comilla University, Bangladesh. His research interests lie in the areas of behavioral economics, development economics, and economics of climate change.
 
   social_networks:
     - network: X
@@ -14,164 +14,272 @@ cv:
     - network: LinkedIn
       username: munem-ahmad-chowdhury
 
-  address:
-    street: Earth Lily, I/12
-    city: Block-E 
-    region: Lalmatia
-    postalCode: Dhaka-1207
-    countryCode: BD
-
   sections:
     Education:
       - institution: Comilla University
         location: Cumilla, Bangladesh
-        url: "https://www.cou.ac.bd/"
+        url: https://www.cou.ac.bd/
         area: Economics
-        studyType: Masters
+        studyType: Masters of Social Science
         start_date: 2020
         end_date: 2020
-        score: "3.54 out of 4.00"
+        highlights:
+          - "CGPA: 3.54 out of 4.00 (Thesis based)"
+          - "Thesis: Nexus between Infrastructural Development and Economic Growth"
+          - "Supervisor: Dr. Zakir Saadullah Khan"
 
       - institution: Comilla University
         location: Cumilla, Bangladesh
-        url: "https://www.cou.ac.bd/"
+        url: https://www.cou.ac.bd/
         area: Economics
-        studyType: Bachelor
+        studyType: Bachelor of Social Science
         start_date: 2016
         end_date: 2019
-        score: "3.54 out of 4.00"
+        highlights:
+          - "CGPA: 3.66 out of 4.00"
 
     Experience:
       - company: Bangladesh Institute of Social Research Trust
-        position: Research Fellow
+        position: Research Fellow, Economic Division
         location: Dhaka, Bangladesh
-        start_date: 2025-01-01
+        start_date: 2025-01
         end_date: "present"
         highlights:
           - Served as Study Manager and Co-Researcher for mixed-methods impact evaluations of a national skill development initiative (n = 7,000 trainees) and a climate-resilient livelihood programme (n = 400 women entrepreneurs), contributing to study design, sampling, field coordination, and analysis.
-          - Led two major research projects as Co-Researcher- a climate-induced migration study commissioned by BRAC and a gender analysis of the plastic waste value chain for UNDP Bangladesh, overseeing instrument design, field supervision, data analysis, and final reporting.
-          - Secured competitive consultancies from UNDP Bangladesh, including $120,000 for an e-Parliament Feasibility Study and $19,850 for a gender analysis of the waste value chain in Chattogram, Cox’s Bazar, and Tangail, through competitive proposal development.
-          - Supervised and mentored a team of 3 interns, 2 research assistants, and 2 research associates, guiding them through proposal development, research design, and project implementation.
-          - Served as the organizing manager of a national conference by overseeing the entire process—from handling communications to designing the full program.
+          - Led two major research projects as Co-Researcher; a climate-induced migration study commissioned by BRAC and a gender analysis of the plastic waste value chain for UNDP Bangladesh, overseeing instrument design, field supervision, data analysis, and final reporting.
+          - Secured competitive consultancies from UNDP Bangladesh, including USD 120,000 for an e-Parliament Feasibility Study and USD 19,850 for a gender analysis of the waste value chain in Chattogram, Cox's Bazar, and Tangail.
+          - Supervised and mentored a team of 3 interns, 2 research assistants, and 2 research associates.
+          - Served as organizing manager of a national conference, overseeing the entire process from communications to program design.
+
+      - company: AI Unveils Tomorrow Project, Regional UNDP Office, Bangkok
+        position: Research Associate to Dr. Selim Jahan, Senior Advisor
+        location: Dhaka, Bangladesh
+        start_date: 2025-12
+        end_date: 2026-06
+        highlights:
+          - Produced comprehensive political-economic country analyses tracing historical development trajectories from independence to present across six countries; Thailand, Indonesia, Viet Nam, Mongolia, Sri Lanka, and Fiji.
+          - Assessed current economic, societal, environmental, and geopolitical risks for each country, synthesizing multi-source literature into structured country briefs for a UNDP regional flagship report.
+          - Documented national development frameworks including objectives, strategic priorities, reported achievements, and implementation challenges to support comparative analysis across Asia-Pacific.
 
       - company: Bangladesh Institute of Social Research Trust
-        position: Research Associate
+        position: Research Associate, Economic Division
         location: Dhaka, Bangladesh
-        start_date: 2023-06-16
-        end_date: 2024-12-31
+        start_date: 2023-06
+        end_date: 2024-12
         highlights:
-          - Executed three research projects for TdH Netherlands, Chattogram City Corporation, and Ministry of Planning of GoB, contributing to methodology development, data collection, analysis, and reporting. 
-          - Facilitated an eight-day training for 42 enumerators, supervised the month-long data collection and managed field logistics for the End-line Evaluation of BRAC’s Gender Responsive Education and Skill Programme in Chattogram Hill Tracts (a hard-to-reach hilly area). 
-          - Authored two peer-reviewed journal articles and five op-eds in national newspapers, enhancing the organization's academic presence.
-          - Reviewed 16 research articles and organized two national-level conferences, fostering academic discourse. 
-          - Secured a $20,000 research grant from Bangladesh Police through a successful proposal for a study on public traffic awareness, collaborating with a co-researcher in proposal development. 
+          - Executed three research projects for TdH Netherlands, Chattogram City Corporation, and Ministry of Planning of GoB, contributing to methodology development, data collection, analysis, and reporting.
+          - Facilitated an eight-day training for 42 enumerators and supervised month-long data collection for the End-line Evaluation of BRAC's Gender Responsive Education and Skill Programme in Chattogram Hill Tracts.
+          - Authored two peer-reviewed journal articles and five op-eds in national newspapers.
+          - Reviewed 16 research articles and organized two national-level conferences.
+          - Secured a USD 20,000 research grant from Bangladesh Police for a study on public traffic awareness.
 
       - company: Change Initiative
         position: Research Assistant
         location: Dhaka, Bangladesh
-        start_date: 2022-05-01
-        end_date: 2023-06-15
+        start_date: 2022-05
+        end_date: 2023-06
         highlights:
-          - Completed five research and consultancy projects for WIN, European Climate Foundation, ALRD, TI Maldives and Oxfam, assisting PI in design survey tools, data cleaning & analysis, policy analysis, and report writing.
-          - Developed ODK forms for household data collection and managed databases for other projects.
-          - Organized the Dhaka Renewable Energy and Finance Talk (DREFT), facilitating international discourse on renewable energy financing, with participation from over 300 stakeholders.
-          - Secured a $15,000 consultancy from OXFAM Bangladesh through a competitive proposal process for a comprehensive study on climate risk insurance, supporting the PI in proposal development.
+          - Completed five research and consultancy projects for WIN, European Climate Foundation, ALRD, TI Maldives, and Oxfam, assisting PI in survey design, data cleaning and analysis, policy analysis, and report writing.
+          - Developed ODK forms for household data collection and managed databases for multiple projects.
+          - Organized the Dhaka Renewable Energy and Finance Talk (DREFT) with participation from over 300 stakeholders.
+          - Secured a USD 15,000 consultancy from OXFAM Bangladesh for a comprehensive study on climate risk insurance.
 
-      - company: Comilla University
+      - company: Department of Economics, Comilla University
         position: Graduate Research Assistant
         location: Cumilla, Bangladesh
-        start_date: 2020-06-01
-        end_date: 2022-04-30
+        start_date: 2020-06
+        end_date: 2022-04
         highlights:
-          - Contributed to a research project focusing on economic growth and external financial means of implementation, assisting PI in literature review, methodology development, data analysis, and report writing.
-          - Published three research articles in peer-reviewed journals, expanding academic contributions and visibility.
-          - Developed course materials and instructed STATA and R training sessions over two semesters, enhancing students' analytical skills.
-          - Mentored two graduate students in econometrics, data analysis, and academic writing, supporting their thesis development and successful defense.
+          - "Supervising Professor: Dr. Kazi Mohammed Kamal Uddin"
+          - Contributed to a research project on economic growth and external financial means of implementation, assisting in literature review, methodology development, data analysis, and report writing.
+          - Published three research articles in peer-reviewed journals.
+          - Developed course materials and instructed STATA and R training sessions over two semesters.
+          - Mentored two graduate students in econometrics, data analysis, and academic writing.
 
     Volunteer:
       - company: Work on Climate
-        position: Quantitative Researcher, Impact Research Team
+        position: "Quantitative Researcher, Impact Research Team"
         location: USA (Remote)
-        start_date: 2024-07-01
-        end_date: 2025-01-31
+        start_date: 2024-07
+        end_date: 2025-01
         highlights:
           - Designed survey instruments and developed sampling strategies to meet quarterly research targets across a global respondent pool.
-          - Coordinated the end-to-end administration of surveys reaching 34,000+ recipients (3,000 via email; 31,000 via Slack) and performed quantitative analysis including data cleaning and summary statistics in Google Sheets.
-          
+          - Coordinated end-to-end administration of surveys reaching 34,000+ recipients (3,000 via email; 31,000 via Slack) and performed quantitative analysis including data cleaning and summary statistics in Google Sheets.
+
       - company: Analytics for a Better World
         position: Data Science Practitioner Fellow
-        location: The Netherlands (Remote)
-        start_date: 2024-09-01
-        end_date: 2024-11-30
+        location: Netherlands (Remote)
+        start_date: 2024-09
+        end_date: 2024-11
         highlights:
-          - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, Python and ArcGIS.
-          - Collaborated with mentors and peers to develop a capstone project titled “Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh”.
-          
-    Selected Publications:
-      - title: "Nexus between infrastructural development and economic growth- Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis"
-        authors:
-          - "Munem Ahmad Chowdhury"
-          - "M. Zakir Saadullah Khan"
-        publisher: Journal of Tropical Futures
-        releaseDate: 2025-01-01
-        url: "https://journals.sagepub.com/doi/full/10.1177/27538931241256491"
+          - Completed a rigorous curriculum covering data management, engineering, geospatial analytics, machine learning, optimization, and natural language processing, with hands-on training in R, Python, and ArcGIS.
+          - Developed a capstone project titled "Power of Women in Decision Making and Control over Resources in Climate Prone Areas of Bangladesh".
 
+    Publications:
+      - title: "Nexus between Infrastructural Development and Economic Growth: Evidence from Bangladesh through ARDL and NARDL"
+        authors:
+          - Munem Ahmad Chowdhury
+          - M. Zakir Saadullah Khan
+        publisher: "Journal of Tropical Futures, 2(1), 37-53"
+        releaseDate: 2025-01-01
+        url: https://journals.sagepub.com/doi/full/10.1177/27538931241256491
 
       - title: "Exploring the Dynamics of Economic Instability: An Analysis of the Interplay between Consumer Spending, Consumer Confidence, and Macroeconomic Factors"
         authors:
-          - "Ayodele Idowu"
-          - "Munem Ahmad Chowdhury"
-          - "Hafsa Rahman Nijhum"
-          - "Bello Mistura Eniola"
-        publisher: International Journal of Empirical Economics
+          - Ayodele Idowu
+          - Munem Ahmad Chowdhury
+          - Hafsa Rahman Nijhum
+          - Bello Mistura Eniola
+        publisher: "International Journal of Empirical Economics, 3(1), 1-25"
         releaseDate: 2024-02-14
-        url: "https://www.worldscientific.com/doi/10.1142/S2810943024500033"
-  
+        url: https://www.worldscientific.com/doi/10.1142/S2810943024500033
+
+      - title: "Interaction of market size, inflation and trade openness on foreign direct investment inflows in India, China and Japan: panel dynamic analysis"
+        authors:
+          - Md. Hasanur Rahman
+          - Munem Ahmad Chowdhury
+          - Mst Sharmin Akter
+        publisher: "International Journal of Indian Culture and Business Management, 29(1), 45-64"
+        releaseDate: 2023-01-01
+        url: https://www.inderscienceonline.com/doi/abs/10.1504/IJICBM.2023.130963
 
       - title: "Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries"
         authors:
-          - "Ayodele Idowu"
-          - "Obaika Micheal Ohikhuare"
-          - "Munem Ahmad Chowdhury"
-        publisher: Quantitative Finance and Economics
+          - Ayodele Idowu
+          - Obaika Micheal Ohikhuare
+          - Munem Ahmad Chowdhury
+        publisher: "Quantitative Finance and Economics, 7(1), 165-186"
         releaseDate: 2023-03-30
-        url: "https://www.aimspress.com/article/doi/10.3934/QFE.2023009"
-        
+        url: https://www.aimspress.com/article/doi/10.3934/QFE.2023009
+
+      - title: "Disintegrated Impact of Trade Openness on Income Inequality: Empirical Evidence from Bangladesh"
+        authors:
+          - Munem Ahmad Chowdhury
+          - Hafsa Rahman Nijhum
+          - Kazi Mohammed Kamal Uddin
+        publisher: "Business and Economic Research, 11(3), 1-18"
+        releaseDate: 2021-01-01
+        url: https://www.macrothink.org/journal/index.php/ber/article/view/18728
+
+      - title: "Attaining Sustainable Economic Growth in Bangladesh: Role of External Financial Means of Implementation"
+        authors:
+          - Kazi Mohammed Kamal Uddin
+          - Munem Ahmad Chowdhury
+        publisher: "Asian Journal of Economic Modelling, 9(1), 1-14"
+        releaseDate: 2021-01-01
+        url: https://archive.aessweb.com/index.php/5009/article/view/370
+
+      - title: "Impact of FDI on Employment Level in Bangladesh: A VECM Approach"
+        authors:
+          - Kazi Mohammed Kamal Uddin
+          - Munem Ahmad Chowdhury
+        publisher: "International Journal of Applied Economics, Finance and Accounting, 8(1), 30-37"
+        releaseDate: 2020-01-01
+        url: https://onlineacademicpress.com/index.php/IJAEFA/article/view/325
+
+      - title: "Facilitating Higher Education: Differential Status of Public and Private Universities in Bangladesh"
+        authors:
+          - Sharna Mazumder
+          - Munem Ahmad Chowdhury
+        publisher: "IOSR Journal of Research and Method in Education, 10(3), 14-23"
+        releaseDate: 2020-01-01
+        url: https://www.iosrjournals.org/iosr-jrme/papers/Vol-10%20Issue-3/Series-6/C1003061423.pdf
+
+    Op-Eds:
+      - title: "Time Privilege: The Hidden Dimension of the Inequality"
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: Medium (Self-published)
+        releaseDate: 2026-04-30
+        url: https://www.linkedin.com/in/munem-ahmad-chowdhury
+
+      - title: Bangladesh needs a national heat action plan
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: The Daily Star
+        releaseDate: 2026-03-28
+
+      - title: Blockchain to enhance transparency in the education sector
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: The Daily Samakal
+        releaseDate: 2025-09-02
+
+      - title: Are we doing right by our remittance warriors?
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: The Dhaka Tribune
+        releaseDate: 2024-11-07
+
+      - title: Gamification in Learning: Enhancing Student Engagement in Universities
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: Dhaka Courier
+        releaseDate: 2024-07-26
+
+      - title: Climate change is blowing up our electricity expenses
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: The Business Standard
+        releaseDate: 2024-04-18
+
+      - title: Common Currency in South Asia!
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: The Daily Janakantha
+        releaseDate: 2023-09-09
+
+      - title: El Nino and Thoughts on Budget
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: The Bangla Tribune
+        releaseDate: 2023-08-02
+
+    Consultancy:
+      - title: Situation Analysis of Indigenous Entrepreneurship in Mymensingh
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: FNF Bangladesh
+        releaseDate: 2023-01-01
+
+      - title: Gender Transformative Climate Resilient Microfinance Project
+        authors:
+          - Munem Ahmad Chowdhury
+        publisher: Gana Unnayan Kendra (GUK)
+        releaseDate: 2023-01-01
 
     Skills:
-      - name: Programming
+      - name: Statistical Software
         level: Intermediate
         icon: fa-solid fa-hashtag
-        keywords: "R, Python, and STATA"
-      - name: Data Coolection Tools
+        keywords: "SPSS, STATA, R (tidyverse, ggplot2)"
+      - name: Data Collection Tools
         level: Advanced
         icon: fa-solid fa-hashtag
-        keywords: "ODK, Kobo Toolbox, and Survey CTO"   
-      - name: GIS & Spatial Analysis
+        keywords: "ODK, Kobo Toolbox, Survey CTO, Qualtrics"
+      - name: GIS and Spatial Analysis
         level: Basic
         icon: fa-solid fa-hashtag
-        keywords: "ArcGIS"  
-      - name: Software & Version Control
+        keywords: "ArcGIS"
+      - name: Software and Version Control
         level: Basic
         icon: fa-solid fa-hashtag
-        keywords: "GitHub"  
+        keywords: "GitHub"
       - name: Document Preparation
         level: Basic
         icon: fa-solid fa-hashtag
-        keywords: "LaTeX"  
-        
+        keywords: "LaTeX"
+
     Languages:
       - name: Bengali
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Economics
+      - name: Research Interests
         icon: fa-solid fa-tag
-        keywords: "Behavioral Economics, Development Economics and Economics of Climate Change."
-
+        keywords: "Behavioral Economics, Development Economics, and Economics of Climate Change."
 
     References:
        - name: Professor Dr. Kazi Mohammed Kamal Uddin
