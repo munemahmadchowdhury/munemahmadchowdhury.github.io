@@ -514,16 +514,16 @@ ninja.data = [{
           description: "An Assessment and Development Plan Preparation of Playgrounds, Vacant Land, and Greening Open Spaces in Chattogram City Corporation (CCC) Area.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-freelance-educator",
           title: 'Freelance Educator',
           description: "Tutored grades 6–12 in English, Math, and Economics, designing lessons and tracking progress to improve exam readiness.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/freelance_educator/";
+            },},{id: "teachings-teaching-assistant-amp-research-mentor",
+          title: 'Teaching Assistant &amp;amp; Research Mentor',
+          description: "Gained experience as a Teaching Assistant and Research Mentor while working under Dr. Kazi Mohammed Kamal Uddin as a Graduate Research Assistant.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/teaching_assistant/";
             },},{
         id: 'social-cv',
         title: 'CV',
