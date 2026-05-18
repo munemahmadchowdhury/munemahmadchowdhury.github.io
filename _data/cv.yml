@@ -184,16 +184,13 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Behavioral Economics, Development Economics and Economics of Climate Chnage."
 
-   
-    # Certificates:
-     #- name: Machine Learning
-      #  date: 2018-01-01
-      #  issuer: Stanford University
-       # icon: fa-solid fa-location-dot
-
 
     References:
 
        - name: Professor Dr. Kazi Mohammed Kamal Uddin
+         icon: fa-solid fa-thumbtack
+         reference: Contact information will be given upon request.
+         
+       - name: Professor Dr. Zakir Saadullah Khan
          icon: fa-solid fa-thumbtack
          reference: Contact information will be given upon request.
