@@ -3,14 +3,14 @@ cv:
   label: Research Fellow
   email: munemahmad@gmail.com
   location: Earth Lily, I/12, Block-E, Lalmatia, Dhaka-1207, Bangladesh
-  image: ""
-  summary: Munem Ahmad Chowdhury is an aspiring researcher with a passion for economics and development. He completed his Bachelor's and Master's degrees in Economics from Comilla University, Bangladesh. He has been working as a Research Fellow in the Economic Division of the Bangladesh Institute of Social Research (BISR) Trust since June 2023. His research interests lie in the areas of behavioral economics, development economics, and economics of climate change.
+  image: assets/img/prof_pic.png
+  summary: Munem Ahmad Chowdhury is an aspiring researcher with a passion for economics and development. He completed his Bachelor's and Master's degrees in Economics from Comilla University, Bangladesh. He has been contributing to the Economic Division of the Bangladesh Institute of Social Research (BISR) Trust since June 2023. His research interests lie in the areas of behavioral economics, development economics, and economics of climate change.
 
   social_networks:
     - network: X
       username: munem_ahmad
     - network: GitHub
-      username: munemahmad
+      username: munemahmadchowdhury
     - network: LinkedIn
       username: munem-ahmad-chowdhury
 
@@ -25,7 +25,7 @@ cv:
     Education:
       - institution: Comilla University
         location: Cumilla, Bangladesh
-        url: https://www.cou.ac.bd/
+        url: "https://www.cou.ac.bd/"
         area: Economics
         studyType: Masters
         start_date: 2020
@@ -34,7 +34,7 @@ cv:
 
       - institution: Comilla University
         location: Cumilla, Bangladesh
-        url: https://www.cou.ac.bd/
+        url: "https://www.cou.ac.bd/"
         area: Economics
         studyType: Bachelor
         start_date: 2016
@@ -45,7 +45,7 @@ cv:
       - company: Bangladesh Institute of Social Research Trust
         position: Research Fellow
         location: Dhaka, Bangladesh
-        start_date: 2025
+        start_date: 2025-01-01
         end_date: "present"
         highlights:
           - Served as Study Manager and Co-Researcher for mixed-methods impact evaluations of a national skill development initiative (n = 7,000 trainees) and a climate-resilient livelihood programme (n = 400 women entrepreneurs), contributing to study design, sampling, field coordination, and analysis.
@@ -57,8 +57,8 @@ cv:
       - company: Bangladesh Institute of Social Research Trust
         position: Research Associate
         location: Dhaka, Bangladesh
-        start_date: 2023
-        end_date: 2024
+        start_date: 2023-06-16
+        end_date: 2024-12-31
         highlights:
           - Executed three research projects for TdH Netherlands, Chattogram City Corporation, and Ministry of Planning of GoB, contributing to methodology development, data collection, analysis, and reporting. 
           - Facilitated an eight-day training for 42 enumerators, supervised the month-long data collection and managed field logistics for the End-line Evaluation of BRAC’s Gender Responsive Education and Skill Programme in Chattogram Hill Tracts (a hard-to-reach hilly area). 
@@ -69,8 +69,8 @@ cv:
       - company: Change Initiative
         position: Research Assistant
         location: Dhaka, Bangladesh
-        start_date: 2022
-        end_date: 2023
+        start_date: 2022-05-01
+        end_date: 2023-06-15
         highlights:
           - Completed five research and consultancy projects for WIN, European Climate Foundation, ALRD, TI Maldives and Oxfam, assisting PI in design survey tools, data cleaning & analysis, policy analysis, and report writing.
           - Developed ODK forms for household data collection and managed databases for other projects.
@@ -80,8 +80,8 @@ cv:
       - company: Comilla University
         position: Graduate Research Assistant
         location: Cumilla, Bangladesh
-        start_date: 2020
-        end_date: 2022
+        start_date: 2020-06-01
+        end_date: 2022-04-30
         highlights:
           - Contributed to a research project focusing on economic growth and external financial means of implementation, assisting PI in literature review, methodology development, data analysis, and report writing.
           - Published three research articles in peer-reviewed journals, expanding academic contributions and visibility.
@@ -110,40 +110,40 @@ cv:
     Selected Publications:
       - title: Nexus between infrastructural development and economic growth- Evidence from Bangladesh through auto-regressive distributive lag and nonlinear auto-regressive distributive lag analysis
         authors:
-          - Munem Ahmad Chowdhury 
-          - M. Zakir Saadullah Khan
+          - "Munem Ahmad Chowdhury"
+          - "M. Zakir Saadullah Khan"
         publisher: Journal of Tropical Futures
         releaseDate: 2025-01-01
-        url: https://journals.sagepub.com/doi/full/10.1177/27538931241256491
+        url: "https://journals.sagepub.com/doi/full/10.1177/27538931241256491"
 
 
       - title: Exploring the Dynamics of Economic Instability: An Analysis of the Interplay between Consumer Spending, Consumer Confidence, and Macroeconomic Factors
         authors:
-          - Ayodele Idowu
-          - Munem Ahmad Chowdhury
-          - Hafsa Rahman Nijhum
-          - Bello Mistura Eniola
+          - "Ayodele Idowu"
+          - "Munem Ahmad Chowdhury"
+          - "Hafsa Rahman Nijhum"
+          - "Bello Mistura Eniola"
         publisher: International Journal of Empirical Economics
         releaseDate: 2024-02-14
-        url: https://www.worldscientific.com/doi/10.1142/S2810943024500033
+        url: "https://www.worldscientific.com/doi/10.1142/S2810943024500033"
   
 
       - title: Does industrialization trigger carbon emissions through energy consumption? Evidence from OPEC countries and high industrialised countries
         authors:
-          - Ayodele Idowu, 
-          - Obaika Micheal Ohikhuare
-          - Munem Ahmad Chowdhury
+          - "Ayodele Idowu"
+          - "Obaika Micheal Ohikhuare"
+          - "Munem Ahmad Chowdhury"
         publisher: Quantitative Finance and Economics
         releaseDate: 2023-03-30
-        url: https://www.aimspress.com/article/doi/10.3934/QFE.2023009
+        url: "https://www.aimspress.com/article/doi/10.3934/QFE.2023009"
         
 
     Skills:
-      - name: Progamming
+      - name: Programming
         level: Intermediate
         icon: fa-solid fa-hashtag
         keywords: "R, Python, and STATA"
-      - name: Data Coolection Tool
+      - name: Data Coolection Tools
         level: Advanced
         icon: fa-solid fa-hashtag
         keywords: "ODK, Kobo Toolbox, and Survey CTO"   
@@ -170,7 +170,7 @@ cv:
     Interests:
       - name: Economics
         icon: fa-solid fa-tag
-        keywords: "Behavioral Economics, Development Economics and Economics of Climate Chnage."
+        keywords: "Behavioral Economics, Development Economics and Economics of Climate Change."
 
 
     References:
@@ -178,6 +178,6 @@ cv:
          icon: fa-solid fa-thumbtack
          reference: Contact information will be given upon request.
          
-       - name: Professor Dr. Zakir Saadullah Khan
+       - name: Professor Dr. M. Zakir Saadullah Khan
          icon: fa-solid fa-thumbtack
          reference: Contact information will be given upon request.
