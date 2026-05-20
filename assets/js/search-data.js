@@ -65,18 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
-          
-        },
-      },{id: "post-a-post-with-image-galleries",
+            },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
@@ -371,17 +360,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2020/twitter/";
-          
-        },
-      },{id: "post-a-post-with-math",
-        
-          title: "a post with math",
-        
-        description: "an example of a blog post with some math",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/math/";
           
         },
       },{id: "books-behavioral-economics",
