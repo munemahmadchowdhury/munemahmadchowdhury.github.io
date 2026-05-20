@@ -1,12 +1,15 @@
 ---
+layout: post
 title: "International Migration and Climate Change"
-excerpt: "**Methodology**: Logitistic Regression.<br/><img src='/images/portfolio_image1.png'>"
-collection: portfolio
-lang: "STATA"
-date: 2025-02-28
+date: 2025-02-28 11:46:00
+description: Stata codes for data cleaning and analysis
+tags: stata code
+categories: sample-posts
+thumbnail: assets/img/9.jpg
+
 ---
 
-You can read the abstract from here:  [👀📖✨ Read](/projects/project10)
+You can read the abstract from here:  [👀📖✨ Read](/projects/10_project)
 
 
 ```stata
