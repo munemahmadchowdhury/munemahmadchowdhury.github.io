@@ -1,11 +1,12 @@
 ---
+layout: post
 title: "Does sustainable industrialization reduce climate vulnerability?"
-excerpt: "**Methodology**: Panel Unit Root Tests, Cross-Sectional Dependence Test, Test for Slope Homogeneity (Pesaran-Yamagata Test), Kao & Pedroni test for cointegration, Cross-sectional time-series FGLS regression (Base Model), Oster Bound Test for omitted variables bias, Driscoll-Kraay standard errors Regression, Prais–Winsten regression- heteroskedastic panels corrected standard errors, and Method of Moments Quantile Regression (MMQR).<br/><img src='/images/portfolio_image5.png'>"
-collection: portfolio
-lang: "STATA"
-date: 2025-09-21
+date: 2025-09-21 11:46:00
+description: Stata codes for data cleaning and analysis
+tags: stata code
+categories: sample-posts
+thumbnail: assets/img/9.jpg
 ---
-
 
 
 
