@@ -6,7 +6,6 @@ description: Stata codes for data cleaning and analysis
 tags: stata code
 categories: sample-posts
 thumbnail: assets/img/9.jpg
-
 ---
 
 You can read the abstract from here:  [👀📖✨ Read](/projects/10_project)
