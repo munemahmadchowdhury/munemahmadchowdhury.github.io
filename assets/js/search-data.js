@@ -76,28 +76,6 @@ ninja.data = [{
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
           
         },
-      },{id: "post-a-post-with-pseudo-code",
-        
-          title: "a post with pseudo code",
-        
-        description: "this is what included pseudo code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/pseudocode/";
-          
-        },
-      },{id: "post-a-post-with-code-diff",
-        
-          title: "a post with code diff",
-        
-        description: "this is how you can display code diffs",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/code-diff/";
-          
-        },
       },{id: "post-a-post-with-advanced-image-components",
         
           title: "a post with advanced image components",
@@ -118,28 +96,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/vega-lite/";
-          
-        },
-      },{id: "post-a-post-with-geojson",
-        
-          title: "a post with geojson",
-        
-        description: "this is what included geojson code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/geojson-map/";
-          
-        },
-      },{id: "post-a-post-with-echarts",
-        
-          title: "a post with echarts",
-        
-        description: "this is what included echarts code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/echarts/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
