@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-a-post-with-advanced-image-components",
+            },{id: "post-international-migration-and-climate-change",
+        
+          title: "International Migration and Climate Change",
+        
+        description: "Stata codes for data cleaning and analysis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/international-migration-climate-change/";
+          
+        },
+      },{id: "post-a-post-with-advanced-image-components",
         
           title: "a post with advanced image components",
         
