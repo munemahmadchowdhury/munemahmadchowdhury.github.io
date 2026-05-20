@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-readiness-for-the-fourth-industrial-revolution-4ir",
+            },{id: "post-does-sustainable-industrialization-reduce-climate-vulnerability",
+        
+          title: "Does sustainable industrialization reduce climate vulnerability?",
+        
+        description: "Stata codes for data cleaning and analysis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sus-ind-cc-vulnerability/";
+          
+        },
+      },{id: "post-readiness-for-the-fourth-industrial-revolution-4ir",
         
           title: "Readiness for the Fourth Industrial Revolution (4IR)",
         
