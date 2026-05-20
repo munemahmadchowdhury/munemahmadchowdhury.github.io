@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: khero khata # blog_name will be displayed in your blog page
-blog_description: Canvas for storing and displaying codes related to data management analysis and visualization
+blog_description: Canvas for storing and displaying codes related to data management, analysis, and visualization
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
