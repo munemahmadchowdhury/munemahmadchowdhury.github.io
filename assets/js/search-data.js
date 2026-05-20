@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-international-migration-and-climate-change",
+            },{id: "post-readiness-for-the-fourth-industrial-revolution-4ir",
+        
+          title: "Readiness for the Fourth Industrial Revolution (4IR)",
+        
+        description: "Stata codes for data cleaning and analysis",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/readiness-for-4IR/";
+          
+        },
+      },{id: "post-international-migration-and-climate-change",
         
           title: "International Migration and Climate Change",
         
@@ -74,17 +85,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/international-migration-climate-change/";
-          
-        },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
           
         },
       },{id: "books-behavioral-economics",
