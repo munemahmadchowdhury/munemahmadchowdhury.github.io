@@ -3,7 +3,7 @@ layout: post
 title: "International Migration and Climate Change"
 date: 2025-02-28 11:46:00
 description: Stata codes for data cleaning and analysis
-tags: stata code
+tags: stata code research
 categories: stata
 thumbnail: assets/img/9.jpg
 ---
