@@ -1,12 +1,14 @@
 ---
+layout: post
 title: "Readiness for the Fourth Industrial Revolution (4IR)"
-excerpt: "**Methodology**: Likeart Scale Based Mean Score. <br/><img src='/images/portfolio_image2.png'>"
-collection: portfolio
-lang: "STATA"
-date: 2025-08-29
+date: 2025-08-29 11:46:00
+description: Stata codes for data cleaning and analysis
+tags: stata code
+categories: sample-posts
+thumbnail: assets/img/9.jpg
 ---
 
-You can read the abstract from here:  [👀📖✨ Read](/projects/project9)
+You can read the abstract from here:  [👀📖✨ Read](/projects/11_project)
 
 
 ```stata
