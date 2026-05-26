@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-does-sustainable-industrialization-reduce-climate-vulnerability",
+            },{id: "post-gender-analysis-of-waste-value-chain-in-chattogram-cox-s-bazar-amp-tangail",
+        
+          title: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar &amp; Tangail",
+        
+        description: "Interactive xls form and Kobo questionnaire form",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/survey-house-undp/";
+          
+        },
+      },{id: "post-does-sustainable-industrialization-reduce-climate-vulnerability",
         
           title: "Does sustainable industrialization reduce climate vulnerability?",
         
