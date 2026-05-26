@@ -109,9 +109,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/international-migration-climate-change/";
           
         },
-      },{id: "post-finding-the-link-between-international-migration-and-climate-change-salinity-inundation-and-river-erosion-affected-areas-in-bangladesh",
+      },{id: "post-international-migration-and-climate-change",
         
-          title: "Finding the Link Between International Migration and Climate Change: Salinity, Inundation, and River-Erosion...",
+          title: "International Migration and Climate Change",
         
         description: "Interactive xls form and Kobo questionnaire form",
         section: "Posts",
