@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding the Link Between International Migration and Climate Change: Salinity, Inundation, and River-Erosion Affected Areas in Bangladesh"
+title: "International Migration and Climate Change"
 date: 2024-11-07
 description: Interactive xls form and Kobo questionnaire form
 tags: kobo odk consultancy
