@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://munemahmadchowdhury.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://munemahmadchowdhury.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2026-05-26T05:38:43+00:00</updated><id>https://munemahmadchowdhury.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar &amp;amp; Tangail</title><link href="https://munemahmadchowdhury.github.io/blog/2025/survey-house-undp/" rel="alternate" type="text/html" title="Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar &amp;amp; Tangail"/><published>2025-10-20T00:00:00+00:00</published><updated>2025-10-20T00:00:00+00:00</updated><id>https://munemahmadchowdhury.github.io/blog/2025/survey-house-undp</id><content type="html" xml:base="https://munemahmadchowdhury.github.io/blog/2025/survey-house-undp/"><![CDATA[<p>You can read the abstract from here: <a href="/projects/12_project">👀📖✨ Read</a></p> <h2 id="xls-form">Xls form</h2> <p>Use the tabs below to navigate between sheets of the dataset.</p> <div id="excel-container" style="width:100%; margin-bottom: 2rem;"> <div id="sheet-tabs" style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;"></div> <div style="overflow-x:auto;"> <table id="excel-table" style="border-collapse:collapse; width:100%; font-size:0.85rem;"></table> </div> </div> <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script> <script>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://munemahmadchowdhury.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://munemahmadchowdhury.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2026-05-26T05:40:51+00:00</updated><id>https://munemahmadchowdhury.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar &amp;amp; Tangail</title><link href="https://munemahmadchowdhury.github.io/blog/2025/survey-house-undp/" rel="alternate" type="text/html" title="Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar &amp;amp; Tangail"/><published>2025-10-20T00:00:00+00:00</published><updated>2025-10-20T00:00:00+00:00</updated><id>https://munemahmadchowdhury.github.io/blog/2025/survey-house-undp</id><content type="html" xml:base="https://munemahmadchowdhury.github.io/blog/2025/survey-house-undp/"><![CDATA[<p>You can read the abstract from here: <a href="/projects/12_project">👀📖✨ Read</a></p> <h2 id="xls-form">Xls form</h2> <p>Use the tabs below to navigate between sheets of the dataset.</p> <div id="excel-container" style="width:100%; margin-bottom: 2rem;"> <div id="sheet-tabs" style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;"></div> <div style="overflow-x:auto;"> <table id="excel-table" style="border-collapse:collapse; width:100%; font-size:0.85rem;"></table> </div> </div> <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script> <script>
 (function() {
   const FILE_URL = '/assets/files/survey_house_undp.xlsx';
 
@@ -1565,4 +1565,59 @@ save</span><span class="w"> </span><span class="s2">"clean_data_student_31082025
 <span class="k">save</span><span class="w"> </span><span class="s2">"data30012025.dta"</span><span class="p">,</span><span class="w"> </span><span class="n">replace</span>
 <span class="k">export</span><span class="w"> </span><span class="n">excel</span><span class="w"> </span><span class="s2">"data30012025.xlsx"</span><span class="w"> </span><span class="p">,</span><span class="w"> </span><span class="n">firstrow</span><span class="p">(</span><span class="n">variables</span><span class="p">)</span><span class="w"> </span><span class="n">replace</span>
 
-</code></pre></div></div>]]></content><author><name></name></author><category term="stata"/><category term="stata"/><category term="code"/><category term="research"/><summary type="html"><![CDATA[Stata codes for data cleaning and analysis]]></summary></entry></feed>
+</code></pre></div></div>]]></content><author><name></name></author><category term="stata"/><category term="stata"/><category term="code"/><category term="research"/><summary type="html"><![CDATA[Stata codes for data cleaning and analysis]]></summary></entry><entry><title type="html">Finding the Link Between International Migration and Climate Change: Salinity, Inundation, and River-Erosion Affected Areas in Bangladesh</title><link href="https://munemahmadchowdhury.github.io/blog/2024/survey-cc-mig-brac/" rel="alternate" type="text/html" title="Finding the Link Between International Migration and Climate Change: Salinity, Inundation, and River-Erosion Affected Areas in Bangladesh"/><published>2024-11-07T00:00:00+00:00</published><updated>2024-11-07T00:00:00+00:00</updated><id>https://munemahmadchowdhury.github.io/blog/2024/survey-cc-mig-brac</id><content type="html" xml:base="https://munemahmadchowdhury.github.io/blog/2024/survey-cc-mig-brac/"><![CDATA[<p>You can read the abstract from here: <a href="/projects/10_project">👀📖✨ Read</a></p> <h2 id="xls-form">Xls form</h2> <p>Use the tabs below to navigate between sheets of the dataset.</p> <div id="excel-container" style="width:100%; margin-bottom: 2rem;"> <div id="sheet-tabs" style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:10px;"></div> <div style="overflow-x:auto;"> <table id="excel-table" style="border-collapse:collapse; width:100%; font-size:0.85rem;"></table> </div> </div> <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script> <script>
+(function() {
+  const FILE_URL = '/assets/files/survey_cc_mig_brac.xlsx';
+
+  let workbook;
+
+  fetch(FILE_URL)
+    .then(res => res.arrayBuffer())
+    .then(buf => {
+      workbook = XLSX.read(buf, { type: 'array' });
+      const tabContainer = document.getElementById('sheet-tabs');
+
+      workbook.SheetNames.forEach((name, index) => {
+        const btn = document.createElement('button');
+        btn.textContent = name;
+        btn.style.cssText = 'padding:6px 14px; border:1px solid #ccc; border-radius:4px; cursor:pointer; background:' + (index === 0 ? 'var(--global-theme-color)' : '#f5f5f5') + '; color:' + (index === 0 ? '#fff' : '#333') + '; font-size:0.85rem;';
+        btn.onclick = function() {
+          document.querySelectorAll('#sheet-tabs button').forEach(b => {
+            b.style.background = '#f5f5f5';
+            b.style.color = '#333';
+          });
+          btn.style.background = 'var(--global-theme-color)';
+          btn.style.color = '#fff';
+          renderSheet(name);
+        };
+        tabContainer.appendChild(btn);
+      });
+
+      renderSheet(workbook.SheetNames[0]);
+    })
+    .catch(() => {
+      document.getElementById('excel-container').innerHTML = '<p style="color:red;">Could not load the file. Please check the file path.</p>';
+    });
+
+  function renderSheet(sheetName) {
+    const sheet = workbook.Sheets[sheetName];
+    const html = XLSX.utils.sheet_to_html(sheet, { editable: false });
+    const table = document.getElementById('excel-table');
+    const wrapper = document.createElement('div');
+    wrapper.innerHTML = html;
+    const newTable = wrapper.querySelector('table');
+    if (newTable) {
+      newTable.style.cssText = 'border-collapse:collapse; width:100%; font-size:0.85rem;';
+      newTable.querySelectorAll('td, th').forEach(cell => {
+        cell.style.cssText = 'border:1px solid #ddd; padding:6px 10px; text-align:left; white-space:nowrap;';
+      });
+      newTable.querySelectorAll('tr:first-child td, tr:first-child th').forEach(cell => {
+        cell.style.background = '#f0f0f0';
+        cell.style.fontWeight = '600';
+      });
+      table.parentNode.replaceChild(newTable, table);
+      newTable.id = 'excel-table';
+    }
+  }
+})();
+</script> <h2 id="survey-questionnaire">Survey Questionnaire</h2> <p>You can preview the survey form below:</p> <div style="margin-top: 1rem;"> <iframe src="https://ee.kobotoolbox.org/x/SutY2HFv" width="100%" height="800px" style="border:1px solid #ddd; border-radius:6px;" allowfullscreen=""> </iframe> </div> <p style="font-size:0.85rem; color:#888; margin-top:0.5rem;"> If the form doesn't load above, <a href="https://ee.kobotoolbox.org/x/SutY2HFv" target="_blank">click here to open it directly</a>. </p>]]></content><author><name></name></author><category term="kobo"/><category term="kobo"/><category term="odk"/><category term="consultancy"/><summary type="html"><![CDATA[Interactive xls form and Kobo questionnaire form]]></summary></entry></feed>

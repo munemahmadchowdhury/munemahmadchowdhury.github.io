@@ -109,6 +109,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/international-migration-climate-change/";
           
         },
+      },{id: "post-finding-the-link-between-international-migration-and-climate-change-salinity-inundation-and-river-erosion-affected-areas-in-bangladesh",
+        
+          title: "Finding the Link Between International Migration and Climate Change: Salinity, Inundation, and River-Erosion...",
+        
+        description: "Interactive xls form and Kobo questionnaire form",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/survey-cc-mig-brac/";
+          
+        },
       },{id: "books-behavioral-economics",
           title: 'Behavioral Economics',
           description: "",
