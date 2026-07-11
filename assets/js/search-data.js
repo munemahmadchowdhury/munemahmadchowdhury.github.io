@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-gender-analysis-of-waste-value-chain-in-chattogram-cox-s-bazar-amp-tangail",
+            },{id: "post-sus-ind-cc-vulnerability",
+        
+          title: "Sus Ind Cc Vulnerability",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/sus-ind-cc-vulnerability/";
+          
+        },
+      },{id: "post-gender-analysis-of-waste-value-chain-in-chattogram-cox-s-bazar-amp-tangail",
         
           title: "Gender analysis of Waste Value Chain in Chattogram, Cox’s Bazar &amp; Tangail",
         
