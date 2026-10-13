@@ -28,8 +28,9 @@ latest_posts:
 ---
 
 ## Bio
+Currently, I am working as a co-researcher with **[Prof. Dr. Selim Jahan](https://cgs-bd.com/article/702/SELIM-JAHAN)** in a research project that examines the evolution of business and trade in Bangladesh from 1947 to the present. We recieved a funding equivalent to USD 25,000 for this research project.
 
-Currently, I am a **Research Fellow** at the [Bangladesh Institute of Social Research (BISR) Trust](https://bisrbd.org/index.html). Prior to this role, I served as a **Research Associate** at the same institution, following my early research experience as a **Research Assistant** at [Change Initiative](https://www.changei.earth/).
+Prior to that, I was a **Research Fellow** at the [Bangladesh Institute of Social Research (BISR) Trust](https://bisrbd.org/index.html). Previously, I served as a **Research Associate** at the same institution, following my early research experience as a **Research Assistant** at [Change Initiative](https://www.changei.earth/).
 
 I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Economics** from [Comilla University](https://www.cou.ac.bd/), where I also worked as a **Graduate Research Assistant** under the supervision of Dr. Kazi Mohammed Kamal Uddin during and shortly after my postgraduate studies.
 
@@ -56,15 +57,10 @@ I earned both my Bachelor’s **(BSS)** and Master’s **(MSS)** degrees in **Ec
 
 ## Ongoing Research
 
-#### Consultancy
+#### Research Project
 
-1. Independent Verification of Enterprise Based Training (EBT) under ASSET Project
-
-   Funded by: Directorate of Technical Education, Ministry of Education, Bangladesh; _Role: Study Coordinator_.
-
-2. Impact Assessment of Capacity Building and Access-to-Finance Interventions for Women Enterpreneurs' RE-Based Livelihood
-
-    Funded by: BRAC; _Role: Co-researcher_.
+1. The evolution of Business and Trade in Bangladesh
+    _Role: Co-researcher_
 
 #### Research Article
 1. Does sustainable industrialization reduce climate vulnerability?
@@ -92,7 +88,7 @@ Over the course of my career, I have successfully developed and secured multiple
 
 #### Annual Conference on Social Research
 
-For two consecutive years (2023, and 2024), I have been part of the organizing team of the Annual Conference on Social Research hosted by BISR Trust, the largest academic networking platform for social science researchers in Bangladesh. This year (2025) marks its tenth edition. In the past two years, my responsibilities included **reviewing papers** and **moderating sessions**. However, in 2025 I served as the **Organizing Manager**, overseeing the entire process—from handling communications with Authors to designing the full program.
+For two consecutive years (2023, and 2024), I have been part of the organizing team of the Annual Conference on Social Research hosted by BISR Trust, the largest academic networking platform for social science researchers in Bangladesh. In 2025, it marked its tenth edition. In the past two years, my responsibilities included **reviewing papers** and **moderating sessions**. However, in 2025 I served as the **Organizing Manager**, overseeing the entire process—from handling communications with Authors to designing the full program.
 
 In the news (2023 & 2024): [1](https://www.observerbd.com/news/497762), [2](https://www.thedailystar.net/news/bangladesh/education/news/eliminating-discrimination-research-sector-need-the-hour-3744146), [3](https://thereport.live/bangladesh/eliminating-discrimination-in-research-sector-is-necessity/32597), [4](https://dailycountrytodaybd.com/story/eliminating-discrimination-in-research-dector-stressed#:~:text=Renowned%20scientist%20Dr.,seasons%20from%20a%20single%20planting)  
 
@@ -110,7 +106,6 @@ In the news (2023 & 2024): [1](https://www.observerbd.com/news/497762), [2](http
 
 Here’s what I’m currently focusing on:
 - 🎓 PhD application preparation
-- 📚 Research on Gender analysis (In 03 Cities Chattogram, Cox’s Bazar & Tangail) of waste value chain
 - ✍️ Writing an article on the nexus between Sustainable Industrialization and Climate Change Vulnerability
 - 📈 Learning Panel Econometrics and Spatial Econometrics
 - 📖 Reading Behavioral Economics: The Basics by Philip Corr and Anke Plagnol
