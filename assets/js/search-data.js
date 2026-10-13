@@ -76,6 +76,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/ASSET-stata/";
           
         },
+      },{id: "post-asset-kobo",
+        
+          title: "Asset Kobo",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ASSET-kobo/";
+          
+        },
       },{id: "post-independent-verification-of-enterprise-based-training-ebt",
         
           title: "Independent Verification of Enterprise Based Training (EBT)",
