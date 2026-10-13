@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "post-does-sustainable-industrialization-reduce-climate-vulnerability",
+            },{id: "post-independent-verification-of-enterprise-based-training-ebt",
+        
+          title: "Independent Verification of Enterprise Based Training (EBT)",
+        
+        description: "Interactive xls form and Kobo questionnaire form",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ASSET-kobo/";
+          
+        },
+      },{id: "post-does-sustainable-industrialization-reduce-climate-vulnerability",
         
           title: "Does sustainable industrialization reduce climate vulnerability?",
         
