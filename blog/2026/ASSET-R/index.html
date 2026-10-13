@@ -47,18 +47,11 @@
 
 
 </span><span class="c1">## ---- 2. Tuning parameter -------------------------------------------------</span><span class="w">
-</span><span class="c1">## MAX_NORM_DIST controls how strict the fuzzy address matching is.</span><span class="w">
-</span><span class="c1">## It is a normalized edit distance: 0 = must be a perfect match,</span><span class="w">
-</span><span class="c1">## 1 = anything matches. 0.25 means "allow roughly up to 25% of the</span><span class="w">
-</span><span class="c1">## place name's characters to differ" (handles typos / OCR noise /</span><span class="w">
-</span><span class="c1">## minor misspellings). Raise it a bit (e.g. 0.30-0.35) if you find</span><span class="w">
-</span><span class="c1">## genuine matches being missed; lower it (e.g. 0.15-0.20) if you see</span><span class="w">
-</span><span class="c1">## wrong matches being made.</span><span class="w">
+
 </span><span class="n">MAX_NORM_DIST</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="m">0.25</span><span class="w">
 
 
 </span><span class="c1">## ---- 3. Load the data ----------------------------------------------------</span><span class="w">
-</span><span class="c1">## NOTE: this file has a single header row (row 1), so no "skip" needed.</span><span class="w">
 </span><span class="c1">## After loading, check colnames(summary_df) — if the columns printed</span><span class="w">
 </span><span class="c1">## don't look right, adjust "skip" (try skip = 1 or skip = 2).</span><span class="w">
 </span><span class="n">summary_df</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">read_excel</span><span class="p">(</span><span class="n">summary_path</span><span class="p">,</span><span class="w"> </span><span class="n">sheet</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">"Summary informatio (2)"</span><span class="p">)</span><span class="w">
@@ -93,16 +86,9 @@
 </span><span class="c1">## =========================================================================</span><span class="w">
 </span><span class="c1">##  TASK 0 — Standardize Start Date / End Date / Assessment Date</span><span class="w">
 </span><span class="c1">## =========================================================================</span><span class="w">
-</span><span class="c1">##  Your dates arrive in mixed formats (e.g. 18/04/2026, 20 Apr 2026,</span><span class="w">
-</span><span class="c1">##  11-04-2026, 25.04.2026, 5 April 2026) — and some cells are already real</span><span class="w">
-</span><span class="c1">##  Excel dates while others are text, so after read_excel the column can</span><span class="w">
-</span><span class="c1">##  contain a mix of ISO-style strings (from real dates) and the original</span><span class="w">
-</span><span class="c1">##  messy text (from text cells). This handles both in one pass.</span><span class="w">
-</span><span class="c1">##</span><span class="w">
-</span><span class="c1">##  Dates are kept as REAL Date values (not text) so Excel treats them as</span><span class="w">
-</span><span class="c1">##  actual dates — sortable, usable in date-difference formulas, and</span><span class="w">
-</span><span class="c1">##  filterable by date — rather than as plain text that merely looks</span><span class="w">
-</span><span class="c1">##  like a date. Excel will display them using your default date format.</span><span class="w">
+</span><span class="c1">##  dates arrive in mixed formats (e.g. 18/04/2026, 20 Apr 2026, 11-04-2026, 25.04.2026, 5 April 2026) — and some cells are already real</span><span class="w">
+</span><span class="c1">##  Excel dates while others are text, so after read_excel the column can contain a mix of ISO-style strings (from real dates) and the original messy text (from text cells). This handles both in one pass.</span><span class="w">
+</span><span class="c1">##  Dates are kept as REAL Date values (not text) so Excel treats them as actual dates — sortable, usable in date-difference formulas, and filterable by date — rather than as plain text that merely looks like a date. Excel will display them using your default date format.</span><span class="w">
 
 </span><span class="n">clean_dates</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">x</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
   </span><span class="n">x_chr</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="n">trimws</span><span class="p">(</span><span class="nf">as.character</span><span class="p">(</span><span class="n">x</span><span class="p">))</span><span class="w">
