@@ -41,9 +41,11 @@ The survey of 2,000 graduates is still ongoing (of round 1). This part of the st
 
 
 **Methodology**
+
 The study uses a mixed-methods approach to independently verify the implementation, quality, compliance, inclusiveness, and employment outcomes of Enterprise-Based Training (EBT) under the ASSET Project. It combine quantitative surveys, qualitative interviews and discussions, desk reviews, tracer studies, site observations, and fiduciary compliance checks. The assessment examines adherence to the Enterprise-Based Training Operational Manual (ETOM, 2025), approved training proposals, Performance-Based Grant Agreements (PBGAs), and other relevant project requirements. Evidence from multiple sources will be triangulated to validate reported information, identify implementation gaps, and generate recommendations for the Project Management Unit (PMU) and the Directorate of Technical Education (DTE).
 
 _**Planned data collection and sample sizes**_
+
 The study will be conducted in two rounds, with quantitative and qualitative methods implemented alongside document review and compliance verification. The planned coverage and activities are as follows:
 
 
@@ -62,6 +64,7 @@ The study will be conducted in two rounds, with quantitative and qualitative met
 
 
 **Sampling, data collection, and verification**
+
 A stratified random sampling strategy will be applied across the priority sectors—Agro-Food, Ceramics, Construction and Civil, Furniture, Garment, Textile and Leather, Health, ICT, Light Engineering and Manufacturing, and Tourism and Hospitality—and the relevant training types, including TSTP, ADTP, and SUTP. The sample will account for urban, rural, and disadvantaged locations, with a target of at least 40% women, 5% ethnic minorities, and inclusion of all available trainees with disabilities. The two rounds will use non-overlapping trainee samples. The 100 employer interviews will be selected from employed graduates, while 100 training sites will be assessed in each round using structured compliance checklists. 
 
 The qualitative component will include 60 KIIs with relevant institutional and industry stakeholders, 30 FGDs with 8–12 participants each, and 30 IDIs prioritizing vulnerable women, ethnic minorities, persons with disabilities, and other relevant trainees and trainers. In addition, the team will review operational manuals, approved training proposals, training agreements, curricula, attendance and assessment records, financial documents, stipend disbursement records, and relevant project information systems. Site visits and fiduciary checks will compare documented compliance with actual conditions, including training delivery, trainer qualifications, equipment, financial utilization, trainee attendance, accessibility, occupational health and safety, and grievance redress mechanisms.
@@ -77,8 +80,8 @@ The qualitative component will include 60 KIIs with relevant institutional and i
 
 
 **Data management, analysis, and reporting**
-Data will be collected digitally using KoboToolbox, following enumerator training and pre-testing of the instruments. Quantitative datasets will be edited, cleaned, coded, and analysed using STATA, while qualitative data will be analysed thematically. Findings will be triangulated across surveys, administrative records, employer confirmations, interviews, and direct observations. Respondents' consent, confidentiality, and anonymity will be protected, and data will be retained securely for at least five years. The final outputs will include separate reports for Rounds 1 and 2, a consolidated report synthesizing findings from both rounds, cleaned datasets, analysis syntax, sampling frames, metadata, and data collection tools.
 
+Data will be collected digitally using KoboToolbox, following enumerator training and pre-testing of the instruments. Quantitative datasets will be edited, cleaned, coded, and analysed using STATA, while qualitative data will be analysed thematically. Findings will be triangulated across surveys, administrative records, employer confirmations, interviews, and direct observations. Respondents' consent, confidentiality, and anonymity will be protected, and data will be retained securely for at least five years. The final outputs will include separate reports for Rounds 1 and 2, a consolidated report synthesizing findings from both rounds, cleaned datasets, analysis syntax, sampling frames, metadata, and data collection tools.
 
 
 
