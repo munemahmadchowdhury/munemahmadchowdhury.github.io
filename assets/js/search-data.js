@@ -76,6 +76,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/ASSET-kobo/";
           
         },
+      },{id: "post-independent-verification-of-enterprise-based-training-ebt",
+        
+          title: "Independent Verification of Enterprise Based Training (EBT)",
+        
+        description: "R codes for preparing population database for sampling worthy",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ASSET-R/";
+          
+        },
       },{id: "post-does-sustainable-industrialization-reduce-climate-vulnerability",
         
           title: "Does sustainable industrialization reduce climate vulnerability?",
