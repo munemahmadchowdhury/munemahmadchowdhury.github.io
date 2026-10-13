@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Independent Verification of Enterprise Based Training (EBT)"
