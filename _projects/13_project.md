@@ -68,7 +68,7 @@ The qualitative component will include 60 KIIs with relevant institutional and i
 
 
 **Multistage Stratification**
-***
+
 
 <img src="/assets/img/asset/asset-stratification-sample.png" alt="Figure 2" style="width:70%; display:block; margin:0 auto;">
 *Figure: Multistage Stratified Random Sampling Process*
