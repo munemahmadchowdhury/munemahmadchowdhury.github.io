@@ -21,8 +21,8 @@ The project website can be visited. [Here](https://asset-dte.gov.bd/)
 
 
 - [R codes for preparing population database for sampling worthy](https://munemahmadchowdhury.github.io/blog/2026/ASSET-R/)
-- [Interactive Excel forms and KoboToolbox questionnaires for trainees, institutions, and employers.] (https://munemahmadchowdhury.github.io/blog/2026/ASSET-kobo/)
-- [STATA codes for data cleaning and demographic information] (https://munemahmadchowdhury.github.io/blog/2026/ASSET-stata/)
+- [Interactive Excel forms and KoboToolbox questionnaires for trainees, institutions, and employers.](https://munemahmadchowdhury.github.io/blog/2026/ASSET-kobo/)
+- [STATA codes for data cleaning and demographic information](https://munemahmadchowdhury.github.io/blog/2026/ASSET-stata/)
 
 
 # Executive Summary
