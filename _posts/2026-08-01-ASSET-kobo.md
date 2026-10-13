@@ -12,7 +12,9 @@ You can read the abstract from here:  [👀📖✨ Read](/projects/13_project)
 
 
 
-## Xls form: For trainees and graduates
+## Xls form: For trainees and graduates | For Institutions | For Institution
+
+*First three tabs (survey, choices & settings) are for trainees and graduates focused questionnaire. The rest of the 6 tabs are for the foloowing two groups.*
 
 Use the tabs below to navigate between sheets of the dataset.
 
