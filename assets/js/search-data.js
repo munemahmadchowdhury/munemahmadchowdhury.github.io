@@ -91,17 +91,6 @@ ninja.data = [{
         
           title: "Independent Verification of Enterprise Based Training (EBT)",
         
-        description: "Interactive xls form and Kobo questionnaire form",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/ASSET-kobo/";
-          
-        },
-      },{id: "post-independent-verification-of-enterprise-based-training-ebt",
-        
-          title: "Independent Verification of Enterprise Based Training (EBT)",
-        
         description: "R codes for preparing population database for sampling worthy",
         section: "Posts",
         handler: () => {
